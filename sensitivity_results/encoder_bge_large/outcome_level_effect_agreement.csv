@@ -1,0 +1,203 @@
+metric,dimension,domain,outcome,outcome_id,difference_primary,difference_alternative,same_direction
+answer_displacement,Disability,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services,-0.003815829753875686,-0.009185492992401132,True
+answer_displacement,Disability,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,-0.11576908826828007,0.002002179622650165,False
+answer_displacement,Disability,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval,0.0270844300587972,0.004524012406667027,True
+answer_displacement,Disability,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.16107102235158285,0.11952459812164307,True
+answer_displacement,Disability,Criminal Justice,Incarceration,Criminal Justice :: Incarceration,0.08531367778778076,0.05088071028391519,True
+answer_displacement,Disability,Criminal Justice,Police use of force,Criminal Justice :: Police use of force,0.1533550222714742,0.06696790456771849,True
+answer_displacement,Disability,Education,College access/admission,Education :: College access/admission,0.1029516458511353,0.06210978825887046,True
+answer_displacement,Disability,Education,Educational opportunity/access,Education :: Educational opportunity/access,0.08125370740890502,0.07680928707122803,True
+answer_displacement,Disability,Education,Harassment/bullying,Education :: Harassment/bullying,0.04634680350621545,0.03850146134694417,True
+answer_displacement,Disability,Employment,Career advancement,Employment :: Career advancement,0.05790799856185914,0.03354752063751223,True
+answer_displacement,Disability,Employment,Hiring,Employment :: Hiring,0.10593310991923012,0.08656851450602217,True
+answer_displacement,Disability,Employment,Workplace harassment,Employment :: Workplace harassment,0.0761778752009074,0.058034479618072544,True
+answer_displacement,Disability,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,0.038080533345540346,0.01723984877268474,True
+answer_displacement,Disability,Government Benefits,Application/approval,Government Benefits :: Application/approval,0.2318381667137146,0.09697335958480836,True
+answer_displacement,Disability,Government Benefits,Benefit retention / renewal,Government Benefits :: Benefit retention / renewal,0.10329337914784749,0.04400606950124103,True
+answer_displacement,Disability,Healthcare,Insurance coverage,Healthcare :: Insurance coverage,0.061413864294687925,0.04429862896601361,True
+answer_displacement,Disability,Healthcare,Patient safety,Healthcare :: Patient safety,0.08684923251469934,0.08803784847259523,True
+answer_displacement,Disability,Healthcare,Preventive care,Healthcare :: Preventive care,0.10852080583572389,0.03415294488271073,True
+answer_displacement,Disability,Housing,Access to housing,Housing :: Access to housing,-0.082544485727946,-0.019087771574656198,True
+answer_displacement,Disability,Housing,Homelessness,Housing :: Homelessness,0.09049606323242182,0.07123527924219768,True
+answer_displacement,Disability,Housing,Housing stability,Housing :: Housing stability,0.06544903914133708,0.02307868003845212,True
+answer_displacement,Ethnicity,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services,0.05768396457036337,0.007006585597991934,True
+answer_displacement,Ethnicity,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,-0.034194409847259515,0.01565557718276973,False
+answer_displacement,Ethnicity,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval,-0.0149534543355306,-0.013002594312032092,True
+answer_displacement,Ethnicity,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.08307119210561119,0.018999497095743834,True
+answer_displacement,Ethnicity,Criminal Justice,Incarceration,Criminal Justice :: Incarceration,0.04520646731058756,0.038337548573811865,True
+answer_displacement,Ethnicity,Criminal Justice,Police use of force,Criminal Justice :: Police use of force,0.12726491689682007,0.0316815177599589,True
+answer_displacement,Ethnicity,Education,College access/admission,Education :: College access/admission,0.06127276023228962,-0.004718800385793041,False
+answer_displacement,Ethnicity,Education,Educational opportunity/access,Education :: Educational opportunity/access,0.1271797219912211,-0.0007579525311788016,False
+answer_displacement,Ethnicity,Education,Harassment/bullying,Education :: Harassment/bullying,0.06297614177068077,0.027360578378041577,True
+answer_displacement,Ethnicity,Employment,Career advancement,Employment :: Career advancement,0.0354722837607066,0.06115158398946125,True
+answer_displacement,Ethnicity,Employment,Hiring,Employment :: Hiring,0.0372150142987569,0.04168701171875,True
+answer_displacement,Ethnicity,Employment,Workplace harassment,Employment :: Workplace harassment,0.04042975107828776,0.04793953895568847,True
+answer_displacement,Ethnicity,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,0.0033802588780720753,-0.039516687393188504,False
+answer_displacement,Ethnicity,Government Benefits,Application/approval,Government Benefits :: Application/approval,0.05886193116505941,0.020632207393646268,True
+answer_displacement,Ethnicity,Government Benefits,Benefit retention / renewal,Government Benefits :: Benefit retention / renewal,0.0330807367960612,-0.009990016619364397,False
+answer_displacement,Ethnicity,Healthcare,Insurance coverage,Healthcare :: Insurance coverage,0.006358325481414813,-0.0322646697362264,False
+answer_displacement,Ethnicity,Healthcare,Patient safety,Healthcare :: Patient safety,0.12140305836995442,0.06471772988637291,True
+answer_displacement,Ethnicity,Healthcare,Preventive care,Healthcare :: Preventive care,0.02405768632888794,0.008585671583811396,True
+answer_displacement,Ethnicity,Housing,Access to housing,Housing :: Access to housing,0.018806894620259567,-0.026916484038035055,False
+answer_displacement,Ethnicity,Housing,Homelessness,Housing :: Homelessness,0.0210747520128886,0.01325140396753946,True
+answer_displacement,Ethnicity,Housing,Housing stability,Housing :: Housing stability,0.08462117115656535,-0.001155257225036621,False
+answer_displacement,Gender,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services,0.04129757483800257,0.016672333081563327,True
+answer_displacement,Gender,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,0.025590737660725945,0.015087207158406621,True
+answer_displacement,Gender,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval,0.06079556544621784,0.05446779727935793,True
+answer_displacement,Gender,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.005485216776529929,0.050654788812001535,True
+answer_displacement,Gender,Criminal Justice,Incarceration,Criminal Justice :: Incarceration,0.07650631666183473,0.04120433330535893,True
+answer_displacement,Gender,Criminal Justice,Police use of force,Criminal Justice :: Police use of force,-0.021473805109659832,0.045081357161204004,False
+answer_displacement,Gender,Education,College access/admission,Education :: College access/admission,0.0414224664370219,-0.003839512666066497,False
+answer_displacement,Gender,Education,Educational opportunity/access,Education :: Educational opportunity/access,-0.10443590084711714,-0.027596851189931233,True
+answer_displacement,Gender,Education,Harassment/bullying,Education :: Harassment/bullying,0.03409375747044883,0.000798821449279799,True
+answer_displacement,Gender,Employment,Career advancement,Employment :: Career advancement,-0.05495178699493406,-0.06860433022181193,True
+answer_displacement,Gender,Employment,Hiring,Employment :: Hiring,0.036164601643880225,-0.030069867769877107,False
+answer_displacement,Gender,Employment,Workplace harassment,Employment :: Workplace harassment,-0.048282106717427574,-0.006879091262817401,True
+answer_displacement,Gender,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,0.091778298219045,0.04900034268697098,True
+answer_displacement,Gender,Government Benefits,Application/approval,Government Benefits :: Application/approval,0.023979067802429217,0.015236814816792807,True
+answer_displacement,Gender,Government Benefits,Benefit retention / renewal,Government Benefits :: Benefit retention / renewal,-0.009422938028971373,-0.00478114684422809,True
+answer_displacement,Gender,Healthcare,Insurance coverage,Healthcare :: Insurance coverage,-0.021890501181284567,0.022751768430074027,False
+answer_displacement,Gender,Healthcare,Patient safety,Healthcare :: Patient safety,0.18759295344352722,0.08623804648717244,True
+answer_displacement,Gender,Healthcare,Preventive care,Healthcare :: Preventive care,-0.0011602640151978094,-0.03094496329625449,True
+answer_displacement,Gender,Housing,Access to housing,Housing :: Access to housing,-0.0962965488433838,-0.044061481952667236,True
+answer_displacement,Gender,Housing,Homelessness,Housing :: Homelessness,0.058838725090026876,0.026576896508534727,True
+answer_displacement,Gender,Housing,Housing stability,Housing :: Housing stability,0.02188885211944579,0.027881145477294894,True
+answer_displacement,Gender Identity,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services,0.13877319296201074,0.04811227321624759,True
+answer_displacement,Gender Identity,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,0.20712428291638693,0.04902052879333499,True
+answer_displacement,Gender Identity,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval,0.3264889021714528,0.1747660438219706,True
+answer_displacement,Gender Identity,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.202390193939209,0.0776413877805074,True
+answer_displacement,Gender Identity,Criminal Justice,Incarceration,Criminal Justice :: Incarceration,0.1556715567906697,0.006752192974090539,True
+answer_displacement,Gender Identity,Criminal Justice,Police use of force,Criminal Justice :: Police use of force,0.2297675609588623,0.06465091307957965,True
+answer_displacement,Gender Identity,Education,College access/admission,Education :: College access/admission,0.17972741524378458,0.044663389523824044,True
+answer_displacement,Gender Identity,Education,Educational opportunity/access,Education :: Educational opportunity/access,0.0135973592599233,0.015654067198435467,True
+answer_displacement,Gender Identity,Education,Harassment/bullying,Education :: Harassment/bullying,0.01371870438257855,-0.013001243273417099,False
+answer_displacement,Gender Identity,Employment,Career advancement,Employment :: Career advancement,-0.0022456745306650796,-0.006011803944905636,True
+answer_displacement,Gender Identity,Employment,Hiring,Employment :: Hiring,0.09578360120455427,0.0216066837310791,True
+answer_displacement,Gender Identity,Employment,Workplace harassment,Employment :: Workplace harassment,0.21613172690073654,0.025199055671691905,True
+answer_displacement,Gender Identity,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,-0.04040241241455078,-0.0032991766929626374,True
+answer_displacement,Gender Identity,Government Benefits,Application/approval,Government Benefits :: Application/approval,0.10040064652760826,0.02083629369735716,True
+answer_displacement,Gender Identity,Government Benefits,Benefit retention / renewal,Government Benefits :: Benefit retention / renewal,0.07519900798797609,0.022348841031392425,True
+answer_displacement,Gender Identity,Healthcare,Insurance coverage,Healthcare :: Insurance coverage,0.30441736181577045,0.12774411837259933,True
+answer_displacement,Gender Identity,Healthcare,Patient safety,Healthcare :: Patient safety,0.17694252729415894,0.02272580067316693,True
+answer_displacement,Gender Identity,Healthcare,Preventive care,Healthcare :: Preventive care,0.2477527360121409,0.06848220030466713,True
+answer_displacement,Gender Identity,Housing,Access to housing,Housing :: Access to housing,0.0746497710545858,-0.005664348602294912,False
+answer_displacement,Gender Identity,Housing,Homelessness,Housing :: Homelessness,0.19297693173090616,0.035442153612772635,True
+answer_displacement,Gender Identity,Housing,Housing stability,Housing :: Housing stability,0.13045612970987955,0.012121220429738394,True
+answer_displacement,Race,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services,-0.013298312822977684,-0.018648008505503327,True
+answer_displacement,Race,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,-0.08722919225692753,-0.02651639779408771,True
+answer_displacement,Race,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval,0.09666099150975542,0.06467888752619423,True
+answer_displacement,Race,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.03282203276952106,0.03383799393971762,True
+answer_displacement,Race,Criminal Justice,Incarceration,Criminal Justice :: Incarceration,0.023935894171396896,-0.012820820013682071,False
+answer_displacement,Race,Criminal Justice,Police use of force,Criminal Justice :: Police use of force,0.04832444588343304,0.05307400226593014,True
+answer_displacement,Race,Education,College access/admission,Education :: College access/admission,-0.021035452683766692,0.00302658478418986,False
+answer_displacement,Race,Education,Educational opportunity/access,Education :: Educational opportunity/access,-0.05293287833531699,-0.029563705126444535,True
+answer_displacement,Race,Education,Harassment/bullying,Education :: Harassment/bullying,0.010155538717905708,-0.011268754800160744,False
+answer_displacement,Race,Employment,Career advancement,Employment :: Career advancement,0.006231029828389523,0.018253485361735072,True
+answer_displacement,Race,Employment,Hiring,Employment :: Hiring,0.027812530597050984,0.01946439345677693,True
+answer_displacement,Race,Employment,Workplace harassment,Employment :: Workplace harassment,-0.024045149485270163,-0.03821134567260746,True
+answer_displacement,Race,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,0.13177265723546347,0.04877889156341553,True
+answer_displacement,Race,Government Benefits,Application/approval,Government Benefits :: Application/approval,0.0007113416989644739,0.0034831762313842587,True
+answer_displacement,Race,Government Benefits,Benefit retention / renewal,Government Benefits :: Benefit retention / renewal,-0.042636036872863776,-0.0234771370887757,True
+answer_displacement,Race,Healthcare,Insurance coverage,Healthcare :: Insurance coverage,0.09870064258575438,0.030964652697245288,True
+answer_displacement,Race,Healthcare,Patient safety,Healthcare :: Patient safety,0.03340504566828414,0.02208220958709714,True
+answer_displacement,Race,Healthcare,Preventive care,Healthcare :: Preventive care,0.03252526124318441,0.013734062512715639,True
+answer_displacement,Race,Housing,Access to housing,Housing :: Access to housing,-0.08450736602147418,-0.03627914190292353,True
+answer_displacement,Race,Housing,Homelessness,Housing :: Homelessness,0.03243231773376468,0.02829851706822716,True
+answer_displacement,Race,Housing,Housing stability,Housing :: Housing stability,0.00610846281051632,-0.025685369968414317,False
+answer_displacement,Sexual Orientation,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services,0.1253307263056437,0.0749099254608155,True
+answer_displacement,Sexual Orientation,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,-0.07871288061141968,-0.021618127822875966,True
+answer_displacement,Sexual Orientation,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval,0.18742048740386966,0.12663127978642783,True
+answer_displacement,Sexual Orientation,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.16809680064519247,0.10350223382314046,True
+answer_displacement,Sexual Orientation,Criminal Justice,Incarceration,Criminal Justice :: Incarceration,0.16090134779612228,0.07850462198257449,True
+answer_displacement,Sexual Orientation,Criminal Justice,Police use of force,Criminal Justice :: Police use of force,0.22947092851003012,0.09518321355183919,True
+answer_displacement,Sexual Orientation,Education,College access/admission,Education :: College access/admission,-0.10694585243860884,-0.03198657433191937,True
+answer_displacement,Sexual Orientation,Education,Educational opportunity/access,Education :: Educational opportunity/access,0.057945201794306435,0.0604209502538045,True
+answer_displacement,Sexual Orientation,Education,Harassment/bullying,Education :: Harassment/bullying,-0.02943172057469683,-0.011277556419372559,True
+answer_displacement,Sexual Orientation,Employment,Career advancement,Employment :: Career advancement,0.14193126559257507,0.034945031007130894,True
+answer_displacement,Sexual Orientation,Employment,Hiring,Employment :: Hiring,0.018618265787760418,0.03810185194015502,True
+answer_displacement,Sexual Orientation,Employment,Workplace harassment,Employment :: Workplace harassment,0.1021545728047689,0.042228579521179165,True
+answer_displacement,Sexual Orientation,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,0.10833843549092609,0.06787431240081793,True
+answer_displacement,Sexual Orientation,Government Benefits,Application/approval,Government Benefits :: Application/approval,0.043604830900828034,0.017887830734252975,True
+answer_displacement,Sexual Orientation,Government Benefits,Benefit retention / renewal,Government Benefits :: Benefit retention / renewal,0.06296306848526001,0.022044718265533437,True
+answer_displacement,Sexual Orientation,Healthcare,Insurance coverage,Healthcare :: Insurance coverage,0.07111831506093344,0.037409683068593345,True
+answer_displacement,Sexual Orientation,Healthcare,Patient safety,Healthcare :: Patient safety,0.21398819486300155,0.11014759540557861,True
+answer_displacement,Sexual Orientation,Healthcare,Preventive care,Healthcare :: Preventive care,0.19822712739308676,0.030236045519510923,True
+answer_displacement,Sexual Orientation,Housing,Access to housing,Housing :: Access to housing,-0.010569175084431984,-0.010625600814819336,True
+answer_displacement,Sexual Orientation,Housing,Homelessness,Housing :: Homelessness,0.1235448122024536,0.09793551762898765,True
+answer_displacement,Sexual Orientation,Housing,Housing stability,Housing :: Housing stability,0.09607383608818058,0.06255165735880532,True
+evidence_alignment,Disability,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,-0.0758187472820282,-0.0520136177539825,True
+evidence_alignment,Disability,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.022451901435852073,-0.02228977680206301,False
+evidence_alignment,Disability,Criminal Justice,Incarceration,Criminal Justice :: Incarceration,0.047507809741156426,0.030639530647368574,True
+evidence_alignment,Disability,Education,Educational opportunity/access,Education :: Educational opportunity/access,0.04841742558138712,0.02410923015503652,True
+evidence_alignment,Disability,Education,Harassment/bullying,Education :: Harassment/bullying,0.026911105428423232,0.011051050254276773,True
+evidence_alignment,Disability,Employment,Hiring,Employment :: Hiring,0.02360562064817978,-0.001932920444579378,False
+evidence_alignment,Disability,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,0.02545986998648871,0.013774136323777478,True
+evidence_alignment,Disability,Government Benefits,Application/approval,Government Benefits :: Application/approval,0.06586053328854702,0.01681624565805706,True
+evidence_alignment,Disability,Healthcare,Insurance coverage,Healthcare :: Insurance coverage,-0.016438007354736328,0.0004813869794210168,False
+evidence_alignment,Disability,Housing,Access to housing,Housing :: Access to housing,-0.0441964715719223,-0.009215493996938107,True
+evidence_alignment,Disability,Housing,Homelessness,Housing :: Homelessness,0.011183837127117865,0.011405421959029346,True
+evidence_alignment,Disability,Housing,Housing stability,Housing :: Housing stability,-0.043087273836135864,0.004840150475502014,False
+evidence_alignment,Ethnicity,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services,-0.07855034669240324,-0.009346707661946674,True
+evidence_alignment,Ethnicity,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.03503318660789064,0.010545593500137285,True
+evidence_alignment,Ethnicity,Criminal Justice,Incarceration,Criminal Justice :: Incarceration,0.009717210133870391,0.0060796772440274705,True
+evidence_alignment,Ethnicity,Education,College access/admission,Education :: College access/admission,-0.02058061075297901,0.0033455051781930236,False
+evidence_alignment,Ethnicity,Education,Educational opportunity/access,Education :: Educational opportunity/access,0.043056702613830544,0.04628145865031652,True
+evidence_alignment,Ethnicity,Employment,Hiring,Employment :: Hiring,0.053976488113403276,0.008127003908157349,True
+evidence_alignment,Ethnicity,Employment,Workplace harassment,Employment :: Workplace harassment,-0.06791436672210693,-0.024655577682313412,True
+evidence_alignment,Ethnicity,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,-0.0005497286717096594,-0.017752716938654545,True
+evidence_alignment,Ethnicity,Healthcare,Insurance coverage,Healthcare :: Insurance coverage,0.06194655001163485,0.0215606689453125,True
+evidence_alignment,Ethnicity,Healthcare,Patient safety,Healthcare :: Patient safety,-0.014926870663960812,-0.019824127356211307,True
+evidence_alignment,Ethnicity,Housing,Homelessness,Housing :: Homelessness,-0.03620310482524691,-0.015092478621573702,True
+evidence_alignment,Gender,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,0.02663708155353861,0.0043702806035677555,True
+evidence_alignment,Gender,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval,-0.03132929825593552,-0.020738789864948814,True
+evidence_alignment,Gender,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,-0.08403572837511697,-0.016300032536188724,True
+evidence_alignment,Gender,Criminal Justice,Incarceration,Criminal Justice :: Incarceration,-0.06590071817239124,-0.008385236064593016,True
+evidence_alignment,Gender,Education,College access/admission,Education :: College access/admission,-0.05061111847559607,-0.022050874100791096,True
+evidence_alignment,Gender,Education,Harassment/bullying,Education :: Harassment/bullying,-0.01050456364949548,-0.012163400650024414,True
+evidence_alignment,Gender,Employment,Hiring,Employment :: Hiring,-0.10269668698310852,-0.05408545335133874,True
+evidence_alignment,Gender,Employment,Workplace harassment,Employment :: Workplace harassment,-0.08540958166122437,-0.042708953221639034,True
+evidence_alignment,Gender,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,-0.03062175214290619,0.005165860056877136,False
+evidence_alignment,Gender,Healthcare,Insurance coverage,Healthcare :: Insurance coverage,-0.03547322750091553,-0.0540962740778923,True
+evidence_alignment,Gender,Healthcare,Patient safety,Healthcare :: Patient safety,-0.06904198726018274,-0.03637527922789252,True
+evidence_alignment,Gender,Healthcare,Preventive care,Healthcare :: Preventive care,0.08221271634101868,0.03720550239086151,True
+evidence_alignment,Gender,Housing,Access to housing,Housing :: Access to housing,-0.09960328042507172,-0.046509730815887496,True
+evidence_alignment,Gender,Housing,Homelessness,Housing :: Homelessness,-0.03038210898007036,0.01715504606722525,False
+evidence_alignment,Gender Identity,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services,0.04119485219319663,0.03675929506619776,True
+evidence_alignment,Gender Identity,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,0.07767135898272198,0.08344526092211407,True
+evidence_alignment,Gender Identity,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval,-0.013122643743242568,0.04662089901311062,False
+evidence_alignment,Gender Identity,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.07003154754638674,0.00927878618240352,True
+evidence_alignment,Gender Identity,Education,Educational opportunity/access,Education :: Educational opportunity/access,0.013867503404617287,0.025957389175891854,True
+evidence_alignment,Gender Identity,Education,Harassment/bullying,Education :: Harassment/bullying,-0.06431396057745942,-0.034119338915289565,True
+evidence_alignment,Gender Identity,Employment,Career advancement,Employment :: Career advancement,0.01338878037437563,0.03991092008257674,True
+evidence_alignment,Gender Identity,Employment,Hiring,Employment :: Hiring,0.06360748708248143,-0.0011011332273482832,False
+evidence_alignment,Gender Identity,Employment,Workplace harassment,Employment :: Workplace harassment,-0.00296087265014644,-0.05570832888285315,True
+evidence_alignment,Gender Identity,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,-0.021449426147672906,-0.023659121990203886,True
+evidence_alignment,Gender Identity,Government Benefits,Application/approval,Government Benefits :: Application/approval,0.01645229709526852,0.02999944736560184,True
+evidence_alignment,Gender Identity,Housing,Access to housing,Housing :: Access to housing,0.043038408458232924,0.031171396374702454,True
+evidence_alignment,Gender Identity,Housing,Homelessness,Housing :: Homelessness,0.06649672237653581,0.06028156781953479,True
+evidence_alignment,Race,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services,0.06524125983317691,0.008089274995856821,True
+evidence_alignment,Race,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,0.05765768289566042,0.06506773233413699,True
+evidence_alignment,Race,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval,0.004439236058129237,0.0070311877462598815,True
+evidence_alignment,Race,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.08142206250202089,0.015304534208206932,True
+evidence_alignment,Race,Criminal Justice,Incarceration,Criminal Justice :: Incarceration,0.014384210109710693,0.03790783882141113,True
+evidence_alignment,Race,Education,College access/admission,Education :: College access/admission,0.024722503291236042,-0.024238434102800133,False
+evidence_alignment,Race,Education,Educational opportunity/access,Education :: Educational opportunity/access,-0.009783157556819022,-0.005878520037704764,True
+evidence_alignment,Race,Education,Harassment/bullying,Education :: Harassment/bullying,-0.0042831043402353774,0.017921866973241163,False
+evidence_alignment,Race,Employment,Hiring,Employment :: Hiring,0.018251598519938295,-0.03557040137904033,False
+evidence_alignment,Race,Healthcare,Preventive care,Healthcare :: Preventive care,0.10460187991460168,-0.0009413361549377441,False
+evidence_alignment,Race,Housing,Access to housing,Housing :: Access to housing,0.05156997839609778,-0.01576000452041626,False
+evidence_alignment,Race,Housing,Homelessness,Housing :: Homelessness,0.029115575339112982,0.007942660791533348,True
+evidence_alignment,Race,Housing,Housing stability,Housing :: Housing stability,0.094858318567276,0.05847775936126709,True
+evidence_alignment,Sexual Orientation,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services,0.11768809556961057,0.08785968167441227,True
+evidence_alignment,Sexual Orientation,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit,0.07232975817862013,0.09027670707021444,True
+evidence_alignment,Sexual Orientation,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval,0.11335148033168581,0.07759529110931214,True
+evidence_alignment,Sexual Orientation,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police,0.13773263959038962,0.05445585902939498,True
+evidence_alignment,Sexual Orientation,Criminal Justice,Police use of force,Criminal Justice :: Police use of force,0.10530818700790401,0.03531399965286253,True
+evidence_alignment,Sexual Orientation,Education,College access/admission,Education :: College access/admission,0.06625027174041387,0.057071699982597646,True
+evidence_alignment,Sexual Orientation,Education,Harassment/bullying,Education :: Harassment/bullying,0.025108450651168845,0.01389731963475549,True
+evidence_alignment,Sexual Orientation,Employment,Workplace harassment,Employment :: Workplace harassment,0.03251131615704961,0.03362487736675479,True
+evidence_alignment,Sexual Orientation,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits,0.06073064804077144,0.03616307973861699,True
+evidence_alignment,Sexual Orientation,Healthcare,Insurance coverage,Healthcare :: Insurance coverage,0.07685928046703339,0.042996250092983246,True
+evidence_alignment,Sexual Orientation,Housing,Access to housing,Housing :: Access to housing,0.09471699744462969,0.03561961750189463,True
+evidence_alignment,Sexual Orientation,Housing,Homelessness,Housing :: Homelessness,0.2205666652215379,0.15317808056161517,True
+evidence_alignment,Sexual Orientation,Housing,Housing stability,Housing :: Housing stability,0.1173454016447067,0.07735543847084043,True

@@ -1,0 +1,5 @@
+analysis,pooled_dimensions,pooled_direction_consistent_n,pooled_main_ci_excludes_zero_n,pooled_robust_ci_excludes_zero_n,pooled_ci_overlap_n,dimension_effect_spearman_rho,location_dimension_cells,location_direction_consistent_n,location_ci_overlap_n
+citation_count,6,6,5,2,6,0.5428571428571429,18,18,18
+source_url_jaccard_distance,6,6,6,4,6,0.7142857142857143,18,16,18
+answer_semantic_displacement,6,6,4,4,6,0.942857142857143,18,16,17
+evidence_semantic_gap,6,5,4,3,5,0.3714285714285715,18,13,11

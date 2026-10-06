@@ -1,0 +1,73 @@
+analysis,location,dimension,n,focal_group,comparison_group,focal_mean,comparison_mean,mean_difference_focal_minus_comparison,median_difference,ci_low,ci_high,rank_biserial,p_raw,p_holm,significant_holm
+citation_count,Dallas,Disability,7,People with disabilities,People without disabilities,9.4285714286,7.5714285714,1.8571428571,2.0,-0.2857142857,4.0,0.5357142857,0.25,0.75,False
+citation_count,Dallas,Ethnicity,7,Latino people,non-Latino people,9.2857142857,6.2857142857,3.0,3.0,1.5714285714,4.8571428571,1.0,0.03125,0.1875,False
+citation_count,Dallas,Gender,7,Women,Men,7.8571428571,7.5714285714,0.2857142857,-1.0,-1.5714285714,2.2857142857,-0.0714285714,0.90625,1.0,False
+citation_count,Dallas,Gender Identity,7,transgender people,cisgender people,9.8571428571,5.1428571429,4.7142857143,6.0,0.4285714286,8.7142857143,0.8095238095,0.09375,0.46875,False
+citation_count,Dallas,Race,7,Black people,White people,8.2857142857,6.5714285714,1.7142857143,2.0,-0.2857142857,3.4285714286,0.6428571429,0.1875,0.75,False
+citation_count,Dallas,Sexual Orientation,7,homosexual people,heterosexual people,9.4285714286,6.8571428571,2.5714285714,0.0,-2.8571428571,9.7142857143,0.2380952381,0.625,1.0,False
+source_url_jaccard_distance,Dallas,Disability,7,People with disabilities,People without disabilities,0.9897959184,0.8146133628,0.1751825555,0.1875,0.0969333643,0.2502289377,1.0,0.03125,0.1875,False
+source_url_jaccard_distance,Dallas,Ethnicity,7,Latino people,non-Latino people,0.9880952381,0.9642857143,0.0238095238,0.0,0.0,0.0714285714,1.0,1.0,1.0,False
+source_url_jaccard_distance,Dallas,Gender,7,Women,Men,0.9165266106,0.8091630592,0.1073635515,0.0,-0.0112511671,0.2472274213,0.6,0.25,1.0,False
+source_url_jaccard_distance,Dallas,Gender Identity,7,transgender people,cisgender people,0.9820728291,0.962785114,0.0192877151,0.0,-0.0168067227,0.0613045218,0.6666666667,0.5,1.0,False
+source_url_jaccard_distance,Dallas,Race,7,Black people,White people,0.9666048237,0.961038961,0.0055658627,0.0,-0.038961039,0.0556586271,0.3333333333,1.0,1.0,False
+source_url_jaccard_distance,Dallas,Sexual Orientation,7,homosexual people,heterosexual people,0.9880952381,0.9093614719,0.0787337662,0.0,0.0,0.1826298701,1.0,0.5,1.0,False
+answer_semantic_displacement,Dallas,Disability,7,People with disabilities,People without disabilities,0.3183031763,0.1794655493,0.138837627,0.150698781,0.0640525392,0.2075771057,0.9285714286,0.03125,0.125,False
+answer_semantic_displacement,Dallas,Ethnicity,7,Latino people,non-Latino people,0.3619405542,0.3519922239,0.0099483303,0.0499693751,-0.0989368047,0.0925706795,0.2857142857,0.890625,1.0,False
+answer_semantic_displacement,Dallas,Gender,7,Women,Men,0.2154847213,0.2071501698,0.0083345515,0.0423361063,-0.0787200928,0.0678876468,0.5,0.890625,1.0,False
+answer_semantic_displacement,Dallas,Gender Identity,7,transgender people,cisgender people,0.4570872699,0.2622466087,0.1948406611,0.2280347943,0.1395696061,0.2499140075,1.0,0.015625,0.09375,False
+answer_semantic_displacement,Dallas,Race,7,Black people,White people,0.2819283009,0.3314691271,-0.0495408263,-0.0408388376,-0.0923427343,-0.0061668243,-0.6428571429,0.09375,0.28125,False
+answer_semantic_displacement,Dallas,Sexual Orientation,7,homosexual people,heterosexual people,0.4082907949,0.3123467309,0.095944064,0.0835783482,0.0426014236,0.1504752977,1.0,0.015625,0.09375,False
+evidence_semantic_gap,Dallas,Disability,2,People with disabilities,People without disabilities,0.2569667935,0.3212648431,-0.0642980496,-0.0642980496,-0.0809380015,-0.0476580977,-1.0,0.5,1.0,False
+evidence_semantic_gap,Dallas,Ethnicity,1,Latino people,non-Latino people,0.2591857229,0.2483236279,0.010862095,0.010862095,0.010862095,0.010862095,1.0,1.0,1.0,False
+evidence_semantic_gap,Dallas,Gender,2,Women,Men,0.2664732809,0.293381912,-0.0269086311,-0.0269086311,-0.075986584,0.0221693218,-0.3333333333,1.0,1.0,False
+evidence_semantic_gap,Dallas,Gender Identity,2,transgender people,cisgender people,0.3195004774,0.2596585552,0.0598419222,0.0598419222,0.05484693,0.0648369143,1.0,0.5,1.0,False
+evidence_semantic_gap,Dallas,Race,3,Black people,White people,0.2308015807,0.2662602716,-0.0354586909,-0.0343074203,-0.0404097706,-0.0316588819,-1.0,0.25,1.0,False
+evidence_semantic_gap,Dallas,Sexual Orientation,1,homosexual people,heterosexual people,0.3034687241,0.3552078128,-0.0517390887,-0.0517390887,-0.0517390887,-0.0517390887,-1.0,1.0,1.0,False
+citation_count,New York City,Disability,7,People with disabilities,People without disabilities,10.0,6.4285714286,3.5714285714,3.0,2.0,5.2857142857,1.0,0.015625,0.09375,False
+citation_count,New York City,Ethnicity,7,Latino people,non-Latino people,8.8571428571,7.1428571429,1.7142857143,3.0,-1.5714285714,4.4285714286,0.4642857143,0.34375,1.0,False
+citation_count,New York City,Gender,7,Women,Men,9.2857142857,7.8571428571,1.4285714286,-1.0,-1.1428571429,4.5714285714,0.2142857143,0.703125,1.0,False
+citation_count,New York City,Gender Identity,7,transgender people,cisgender people,8.8571428571,8.1428571429,0.7142857143,1.0,-4.4285714286,5.1428571429,0.1428571429,0.796875,1.0,False
+citation_count,New York City,Race,7,Black people,White people,9.4285714286,5.0,4.4285714286,4.0,3.7142857143,5.1428571429,1.0,0.015625,0.09375,False
+citation_count,New York City,Sexual Orientation,7,homosexual people,heterosexual people,8.8571428571,6.4285714286,2.4285714286,2.0,-1.8571428571,7.8571428571,0.3333333333,0.53125,1.0,False
+source_url_jaccard_distance,New York City,Disability,7,People with disabilities,People without disabilities,0.978959276,0.8779347636,0.1010245124,0.1538461538,0.0334554335,0.1595715209,1.0,0.0625,0.375,False
+source_url_jaccard_distance,New York City,Ethnicity,7,Latino people,non-Latino people,0.989010989,0.9738095238,0.0152014652,0.0,-0.021978022,0.0547619048,0.6666666667,0.5,1.0,False
+source_url_jaccard_distance,New York City,Gender,7,Women,Men,0.8711425479,0.7497581783,0.1213843696,0.1212121212,-0.0004539112,0.2775819419,0.7142857143,0.15625,0.625,False
+source_url_jaccard_distance,New York City,Gender Identity,7,transgender people,cisgender people,1.0,0.9518744164,0.0481255836,0.0555555556,0.0158730159,0.0933146592,1.0,0.125,0.625,False
+source_url_jaccard_distance,New York City,Race,7,Black people,White people,0.9747583244,0.978021978,-0.0032636536,0.0,-0.0306122449,0.020821284,-0.3333333333,1.0,1.0,False
+source_url_jaccard_distance,New York City,Sexual Orientation,7,homosexual people,heterosexual people,0.9880952381,0.9328398026,0.0552554355,0.0,0.0102040816,0.110510871,1.0,0.25,0.75,False
+answer_semantic_displacement,New York City,Disability,7,People with disabilities,People without disabilities,0.3609023456,0.1744705268,0.1864318188,0.1115110517,0.0671288967,0.3716272605,0.9285714286,0.03125,0.1875,False
+answer_semantic_displacement,New York City,Ethnicity,7,Latino people,non-Latino people,0.3525631939,0.2781061019,0.0744570919,0.0865079165,0.0059788653,0.1339713846,0.6428571429,0.09375,0.28125,False
+answer_semantic_displacement,New York City,Gender,7,Women,Men,0.2244572384,0.1950683338,0.0293889046,0.0241900086,-0.0201682704,0.0792184557,0.5,0.34375,0.6875,False
+answer_semantic_displacement,New York City,Gender Identity,7,transgender people,cisgender people,0.3909935951,0.2733070254,0.1176865697,0.1532510519,0.0526305352,0.175757919,0.7857142857,0.0625,0.25,False
+answer_semantic_displacement,New York City,Race,7,Black people,White people,0.3414605132,0.3124783124,0.0289822008,0.005391717,-0.0123161588,0.081905531,0.2857142857,0.359375,0.6875,False
+answer_semantic_displacement,New York City,Sexual Orientation,7,homosexual people,heterosexual people,0.3978821295,0.3148099269,0.0830722025,0.0720864534,0.0381251744,0.1332174795,0.9285714286,0.03125,0.1875,False
+evidence_semantic_gap,New York City,Disability,2,People with disabilities,People without disabilities,0.2953239123,0.313672711,-0.0183487987,-0.0183487987,-0.0217227976,-0.0149747998,-1.0,0.5,1.0,False
+evidence_semantic_gap,New York City,Ethnicity,3,Latino people,non-Latino people,0.2508096529,0.2648498986,-0.0140402456,-0.0266626795,-0.0794371068,0.0639790495,-0.3333333333,0.75,1.0,False
+evidence_semantic_gap,New York City,Gender,2,Women,Men,0.3151065819,0.2991106413,0.0159959406,0.0159959406,-0.0139587224,0.0459506035,0.3333333333,1.0,1.0,False
+evidence_semantic_gap,New York City,Gender Identity,2,transgender people,cisgender people,0.2648460619,0.3408293298,-0.0759832679,-0.0759832679,-0.1615041271,0.0095375913,-0.3333333333,1.0,1.0,False
+evidence_semantic_gap,New York City,Race,4,Black people,White people,0.2289743808,0.2491951957,-0.0202208149,-0.0183627442,-0.0326739794,-0.0077676505,-1.0,0.125,0.75,False
+evidence_semantic_gap,New York City,Sexual Orientation,2,homosexual people,heterosexual people,0.229811358,0.2491741218,-0.0193627638,-0.0193627638,-0.035074994,-0.0036505337,-1.0,0.5,1.0,False
+citation_count,Los Angeles,Disability,7,People with disabilities,People without disabilities,10.8571428571,7.4285714286,3.4285714286,0.0,0.7142857143,6.8571428571,1.0,0.25,1.0,False
+citation_count,Los Angeles,Ethnicity,7,Latino people,non-Latino people,7.8571428571,7.0,0.8571428571,2.0,-2.2857142857,3.0,0.4285714286,0.375,1.0,False
+citation_count,Los Angeles,Gender,7,Women,Men,8.5714285714,8.1428571429,0.4285714286,0.0,-0.7142857143,1.5714285714,0.3333333333,0.6875,1.0,False
+citation_count,Los Angeles,Gender Identity,7,transgender people,cisgender people,10.0,6.5714285714,3.4285714286,7.0,-1.1428571429,7.4285714286,0.5714285714,0.21875,1.0,False
+citation_count,Los Angeles,Race,7,Black people,White people,8.5714285714,7.1428571429,1.4285714286,2.0,-0.2857142857,3.0,0.5714285714,0.25,1.0,False
+citation_count,Los Angeles,Sexual Orientation,7,homosexual people,heterosexual people,9.2857142857,6.4285714286,2.8571428571,1.0,-0.7142857143,7.4285714286,0.5,0.28125,1.0,False
+source_url_jaccard_distance,Los Angeles,Disability,7,People with disabilities,People without disabilities,0.9711884754,0.896389325,0.0747991504,0.0,-0.0288115246,0.1784213685,0.8,0.25,1.0,False
+source_url_jaccard_distance,Los Angeles,Ethnicity,7,Latino people,non-Latino people,0.9880952381,0.987012987,0.0010822511,0.0,-0.0357142857,0.038961039,0.3333333333,1.0,1.0,False
+source_url_jaccard_distance,Los Angeles,Gender,7,Women,Men,0.9103436246,0.858744197,0.0515994276,0.0,-0.0102040816,0.1346235464,0.6666666667,0.5,1.0,False
+source_url_jaccard_distance,Los Angeles,Gender Identity,7,transgender people,cisgender people,0.9700854701,0.9720238095,-0.0019383394,0.0,-0.0087912088,0.0029761905,-0.3333333333,1.0,1.0,False
+source_url_jaccard_distance,Los Angeles,Race,7,Black people,White people,1.0,0.9761904762,0.0238095238,0.0,0.0,0.0714285714,1.0,1.0,1.0,False
+source_url_jaccard_distance,Los Angeles,Sexual Orientation,7,homosexual people,heterosexual people,0.9910714286,0.8826173826,0.108454046,0.0,0.012987013,0.2368881119,1.0,0.25,1.0,False
+answer_semantic_displacement,Los Angeles,Disability,7,People with disabilities,People without disabilities,0.2573883278,0.1799809081,0.0774074197,0.0107158422,-0.0094553224,0.1845354778,0.5,0.1875,0.5625,False
+answer_semantic_displacement,Los Angeles,Ethnicity,7,Latino people,non-Latino people,0.3562596057,0.23725886,0.1190007457,0.0922552347,0.0719278127,0.1880680365,1.0,0.015625,0.09375,False
+answer_semantic_displacement,Los Angeles,Gender,7,Women,Men,0.206923323,0.191381182,0.015542141,0.0136239529,-0.0220156397,0.0538630939,0.2857142857,0.46875,0.625,False
+answer_semantic_displacement,Los Angeles,Gender Identity,7,transgender people,cisgender people,0.4013779504,0.2628759146,0.1385020358,0.1106681824,0.0872047714,0.1947415386,1.0,0.015625,0.09375,False
+answer_semantic_displacement,Los Angeles,Race,7,Black people,White people,0.3012966173,0.2675746424,0.0337219749,0.0154585838,-0.0204722966,0.0944453052,0.4285714286,0.3125,0.625,False
+answer_semantic_displacement,Los Angeles,Sexual Orientation,7,homosexual people,heterosexual people,0.3868448053,0.3031997085,0.0836450968,0.0438693166,0.0331470285,0.1369785666,1.0,0.015625,0.09375,False
+evidence_semantic_gap,Los Angeles,Disability,1,People with disabilities,People without disabilities,0.3319142063,0.3483550429,-0.0164408366,-0.0164408366,-0.0164408366,-0.0164408366,-1.0,1.0,1.0,False
+evidence_semantic_gap,Los Angeles,Ethnicity,2,Latino people,non-Latino people,0.3030374845,0.281983153,0.0210543315,0.0210543315,-0.0188699981,0.060978661,0.3333333333,1.0,1.0,False
+evidence_semantic_gap,Los Angeles,Gender,3,Women,Men,0.2628124803,0.2718528705,-0.0090403902,-0.0064145575,-0.027604565,0.0068979519,-0.3333333333,0.75,1.0,False
+evidence_semantic_gap,Los Angeles,Gender Identity,2,transgender people,cisgender people,0.3047543123,0.257956996,0.0467973162,0.0467973162,-0.0180611014,0.1116557339,0.3333333333,1.0,1.0,False
+evidence_semantic_gap,Los Angeles,Race,1,Black people,White people,0.1958649953,0.2702459544,-0.0743809591,-0.0743809591,-0.0743809591,-0.0743809591,-1.0,1.0,1.0,False
+evidence_semantic_gap,Los Angeles,Sexual Orientation,1,homosexual people,heterosexual people,0.4050864975,0.3867577116,0.0183287859,0.0183287859,0.0183287859,0.0183287859,1.0,1.0,1.0,False

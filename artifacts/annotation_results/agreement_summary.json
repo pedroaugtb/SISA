@@ -1,0 +1,27 @@
+{
+  "full_pool": {
+    "n": 62,
+    "gwet_ac2_quadratic": 0.644114801676879,
+    "gwet_ac2_ci_low": 0.5122432649255771,
+    "gwet_ac2_ci_high": 0.7759863384281808,
+    "weighted_observed_agreement": 0.8851612903225808,
+    "weighted_cohen_kappa": 0.15536506964641061,
+    "spearman_rho": 0.21260971248618254,
+    "spearman_p": 0.09710596879590373,
+    "exact_agreement": 0.25806451612903225,
+    "within_one": 0.5967741935483871,
+    "mean_absolute_difference": 1.3225806451612903,
+    "gwet_ac1_comparability": 0.9655937846836848,
+    "gwet_ac1_ci_low": 0.9157952075386804,
+    "gwet_ac1_ci_high": 1.0,
+    "comparability_raw_agreement": 0.967741935483871
+  },
+  "selected_21_descriptive": {
+    "n": 21,
+    "exact_agreement": 0.5238095238095238,
+    "within_one": 0.9523809523809523,
+    "mean_absolute_difference": 0.5238095238095238,
+    "comparability_raw_agreement": 0.9523809523809523,
+    "note": "Descriptive only. The selected set is conditioned on the selection procedure and should not be treated as an independent reliability estimate."
+  }
+}

@@ -1,0 +1,379 @@
+location,location_label,dimension,outcome_id,majority,minority,complete_pair
+dallas,Dallas,Disability,Credit & Financial Services :: Access to banking services,False,False,False
+dallas,Dallas,Disability,Credit & Financial Services :: Access to credit,False,True,False
+dallas,Dallas,Disability,Credit & Financial Services :: Credit/loan approval,True,False,False
+dallas,Dallas,Disability,Criminal Justice :: Arrest / detention by police,True,True,True
+dallas,Dallas,Disability,Criminal Justice :: Incarceration,False,True,False
+dallas,Dallas,Disability,Criminal Justice :: Police use of force,False,False,False
+dallas,Dallas,Disability,Education :: College access/admission,False,True,False
+dallas,Dallas,Disability,Education :: Educational opportunity/access,True,True,True
+dallas,Dallas,Disability,Education :: Harassment/bullying,True,True,True
+dallas,Dallas,Disability,Employment :: Career advancement,False,True,False
+dallas,Dallas,Disability,Employment :: Hiring,False,True,False
+dallas,Dallas,Disability,Employment :: Workplace harassment,False,True,False
+dallas,Dallas,Disability,Government Benefits :: Access to government benefits,True,True,True
+dallas,Dallas,Disability,Government Benefits :: Application/approval,True,False,False
+dallas,Dallas,Disability,Government Benefits :: Benefit retention / renewal,False,True,False
+dallas,Dallas,Disability,Healthcare :: Insurance coverage,False,True,False
+dallas,Dallas,Disability,Healthcare :: Patient safety,False,False,False
+dallas,Dallas,Disability,Healthcare :: Preventive care,True,False,False
+dallas,Dallas,Disability,Housing :: Access to housing,False,True,False
+dallas,Dallas,Disability,Housing :: Homelessness,True,True,True
+dallas,Dallas,Disability,Housing :: Housing stability,True,True,True
+dallas,Dallas,Ethnicity,Credit & Financial Services :: Access to banking services,True,True,True
+dallas,Dallas,Ethnicity,Credit & Financial Services :: Access to credit,False,True,False
+dallas,Dallas,Ethnicity,Credit & Financial Services :: Credit/loan approval,False,True,False
+dallas,Dallas,Ethnicity,Criminal Justice :: Arrest / detention by police,True,True,True
+dallas,Dallas,Ethnicity,Criminal Justice :: Incarceration,False,False,False
+dallas,Dallas,Ethnicity,Criminal Justice :: Police use of force,True,False,False
+dallas,Dallas,Ethnicity,Education :: College access/admission,True,True,True
+dallas,Dallas,Ethnicity,Education :: Educational opportunity/access,False,True,False
+dallas,Dallas,Ethnicity,Education :: Harassment/bullying,True,False,False
+dallas,Dallas,Ethnicity,Employment :: Career advancement,False,True,False
+dallas,Dallas,Ethnicity,Employment :: Hiring,False,True,False
+dallas,Dallas,Ethnicity,Employment :: Workplace harassment,True,True,True
+dallas,Dallas,Ethnicity,Government Benefits :: Access to government benefits,True,True,True
+dallas,Dallas,Ethnicity,Government Benefits :: Application/approval,False,True,False
+dallas,Dallas,Ethnicity,Government Benefits :: Benefit retention / renewal,False,True,False
+dallas,Dallas,Ethnicity,Healthcare :: Insurance coverage,True,True,True
+dallas,Dallas,Ethnicity,Healthcare :: Patient safety,False,True,False
+dallas,Dallas,Ethnicity,Healthcare :: Preventive care,False,True,False
+dallas,Dallas,Ethnicity,Housing :: Access to housing,False,True,False
+dallas,Dallas,Ethnicity,Housing :: Homelessness,True,True,True
+dallas,Dallas,Ethnicity,Housing :: Housing stability,True,False,False
+dallas,Dallas,Gender,Credit & Financial Services :: Access to banking services,False,True,False
+dallas,Dallas,Gender,Credit & Financial Services :: Access to credit,True,True,True
+dallas,Dallas,Gender,Credit & Financial Services :: Credit/loan approval,True,True,True
+dallas,Dallas,Gender,Criminal Justice :: Arrest / detention by police,True,True,True
+dallas,Dallas,Gender,Criminal Justice :: Incarceration,True,False,False
+dallas,Dallas,Gender,Criminal Justice :: Police use of force,False,False,False
+dallas,Dallas,Gender,Education :: College access/admission,True,False,False
+dallas,Dallas,Gender,Education :: Educational opportunity/access,False,False,False
+dallas,Dallas,Gender,Education :: Harassment/bullying,False,True,False
+dallas,Dallas,Gender,Employment :: Career advancement,True,False,False
+dallas,Dallas,Gender,Employment :: Hiring,True,True,True
+dallas,Dallas,Gender,Employment :: Workplace harassment,True,True,True
+dallas,Dallas,Gender,Government Benefits :: Access to government benefits,False,True,False
+dallas,Dallas,Gender,Government Benefits :: Application/approval,False,True,False
+dallas,Dallas,Gender,Government Benefits :: Benefit retention / renewal,True,False,False
+dallas,Dallas,Gender,Healthcare :: Insurance coverage,True,False,False
+dallas,Dallas,Gender,Healthcare :: Patient safety,False,True,False
+dallas,Dallas,Gender,Healthcare :: Preventive care,True,False,False
+dallas,Dallas,Gender,Housing :: Access to housing,False,True,False
+dallas,Dallas,Gender,Housing :: Homelessness,True,True,True
+dallas,Dallas,Gender,Housing :: Housing stability,True,False,False
+dallas,Dallas,Gender Identity,Credit & Financial Services :: Access to banking services,True,True,True
+dallas,Dallas,Gender Identity,Credit & Financial Services :: Access to credit,True,True,True
+dallas,Dallas,Gender Identity,Credit & Financial Services :: Credit/loan approval,False,True,False
+dallas,Dallas,Gender Identity,Criminal Justice :: Arrest / detention by police,False,True,False
+dallas,Dallas,Gender Identity,Criminal Justice :: Incarceration,False,True,False
+dallas,Dallas,Gender Identity,Criminal Justice :: Police use of force,False,True,False
+dallas,Dallas,Gender Identity,Education :: College access/admission,False,True,False
+dallas,Dallas,Gender Identity,Education :: Educational opportunity/access,True,True,True
+dallas,Dallas,Gender Identity,Education :: Harassment/bullying,True,True,True
+dallas,Dallas,Gender Identity,Employment :: Career advancement,True,True,True
+dallas,Dallas,Gender Identity,Employment :: Hiring,True,True,True
+dallas,Dallas,Gender Identity,Employment :: Workplace harassment,True,True,True
+dallas,Dallas,Gender Identity,Government Benefits :: Access to government benefits,True,True,True
+dallas,Dallas,Gender Identity,Government Benefits :: Application/approval,True,True,True
+dallas,Dallas,Gender Identity,Government Benefits :: Benefit retention / renewal,False,True,False
+dallas,Dallas,Gender Identity,Healthcare :: Insurance coverage,True,False,False
+dallas,Dallas,Gender Identity,Healthcare :: Patient safety,True,False,False
+dallas,Dallas,Gender Identity,Healthcare :: Preventive care,False,False,False
+dallas,Dallas,Gender Identity,Housing :: Access to housing,True,True,True
+dallas,Dallas,Gender Identity,Housing :: Homelessness,True,True,True
+dallas,Dallas,Gender Identity,Housing :: Housing stability,False,True,False
+dallas,Dallas,Race,Credit & Financial Services :: Access to banking services,True,True,True
+dallas,Dallas,Race,Credit & Financial Services :: Access to credit,False,True,False
+dallas,Dallas,Race,Credit & Financial Services :: Credit/loan approval,False,True,False
+dallas,Dallas,Race,Criminal Justice :: Arrest / detention by police,True,True,True
+dallas,Dallas,Race,Criminal Justice :: Incarceration,False,True,False
+dallas,Dallas,Race,Criminal Justice :: Police use of force,False,True,False
+dallas,Dallas,Race,Education :: College access/admission,True,True,True
+dallas,Dallas,Race,Education :: Educational opportunity/access,True,True,True
+dallas,Dallas,Race,Education :: Harassment/bullying,False,True,False
+dallas,Dallas,Race,Employment :: Career advancement,False,False,False
+dallas,Dallas,Race,Employment :: Hiring,False,True,False
+dallas,Dallas,Race,Employment :: Workplace harassment,False,True,False
+dallas,Dallas,Race,Government Benefits :: Access to government benefits,True,False,False
+dallas,Dallas,Race,Government Benefits :: Application/approval,False,True,False
+dallas,Dallas,Race,Government Benefits :: Benefit retention / renewal,True,False,False
+dallas,Dallas,Race,Healthcare :: Insurance coverage,False,False,False
+dallas,Dallas,Race,Healthcare :: Patient safety,False,False,False
+dallas,Dallas,Race,Healthcare :: Preventive care,True,True,True
+dallas,Dallas,Race,Housing :: Access to housing,True,False,False
+dallas,Dallas,Race,Housing :: Homelessness,True,True,True
+dallas,Dallas,Race,Housing :: Housing stability,True,False,False
+dallas,Dallas,Sexual Orientation,Credit & Financial Services :: Access to banking services,True,True,True
+dallas,Dallas,Sexual Orientation,Credit & Financial Services :: Access to credit,True,True,True
+dallas,Dallas,Sexual Orientation,Credit & Financial Services :: Credit/loan approval,True,True,True
+dallas,Dallas,Sexual Orientation,Criminal Justice :: Arrest / detention by police,True,False,False
+dallas,Dallas,Sexual Orientation,Criminal Justice :: Incarceration,False,True,False
+dallas,Dallas,Sexual Orientation,Criminal Justice :: Police use of force,True,True,True
+dallas,Dallas,Sexual Orientation,Education :: College access/admission,False,True,False
+dallas,Dallas,Sexual Orientation,Education :: Educational opportunity/access,False,False,False
+dallas,Dallas,Sexual Orientation,Education :: Harassment/bullying,True,True,True
+dallas,Dallas,Sexual Orientation,Employment :: Career advancement,True,False,False
+dallas,Dallas,Sexual Orientation,Employment :: Hiring,False,False,False
+dallas,Dallas,Sexual Orientation,Employment :: Workplace harassment,True,True,True
+dallas,Dallas,Sexual Orientation,Government Benefits :: Access to government benefits,True,True,True
+dallas,Dallas,Sexual Orientation,Government Benefits :: Application/approval,False,True,False
+dallas,Dallas,Sexual Orientation,Government Benefits :: Benefit retention / renewal,False,True,False
+dallas,Dallas,Sexual Orientation,Healthcare :: Insurance coverage,True,True,True
+dallas,Dallas,Sexual Orientation,Healthcare :: Patient safety,True,False,False
+dallas,Dallas,Sexual Orientation,Healthcare :: Preventive care,False,False,False
+dallas,Dallas,Sexual Orientation,Housing :: Access to housing,True,True,True
+dallas,Dallas,Sexual Orientation,Housing :: Homelessness,True,True,True
+dallas,Dallas,Sexual Orientation,Housing :: Housing stability,True,True,True
+la,Los Angeles,Disability,Credit & Financial Services :: Access to banking services,False,True,False
+la,Los Angeles,Disability,Credit & Financial Services :: Access to credit,False,True,False
+la,Los Angeles,Disability,Credit & Financial Services :: Credit/loan approval,True,False,False
+la,Los Angeles,Disability,Criminal Justice :: Arrest / detention by police,False,True,False
+la,Los Angeles,Disability,Criminal Justice :: Incarceration,True,True,True
+la,Los Angeles,Disability,Criminal Justice :: Police use of force,False,False,False
+la,Los Angeles,Disability,Education :: College access/admission,False,True,False
+la,Los Angeles,Disability,Education :: Educational opportunity/access,True,True,True
+la,Los Angeles,Disability,Education :: Harassment/bullying,False,True,False
+la,Los Angeles,Disability,Employment :: Career advancement,False,True,False
+la,Los Angeles,Disability,Employment :: Hiring,True,True,True
+la,Los Angeles,Disability,Employment :: Workplace harassment,False,True,False
+la,Los Angeles,Disability,Government Benefits :: Access to government benefits,True,True,True
+la,Los Angeles,Disability,Government Benefits :: Application/approval,False,False,False
+la,Los Angeles,Disability,Government Benefits :: Benefit retention / renewal,False,True,False
+la,Los Angeles,Disability,Healthcare :: Insurance coverage,False,True,False
+la,Los Angeles,Disability,Healthcare :: Patient safety,False,False,False
+la,Los Angeles,Disability,Healthcare :: Preventive care,False,False,False
+la,Los Angeles,Disability,Housing :: Access to housing,True,True,True
+la,Los Angeles,Disability,Housing :: Homelessness,True,True,True
+la,Los Angeles,Disability,Housing :: Housing stability,True,False,False
+la,Los Angeles,Ethnicity,Credit & Financial Services :: Access to banking services,False,True,False
+la,Los Angeles,Ethnicity,Credit & Financial Services :: Access to credit,False,True,False
+la,Los Angeles,Ethnicity,Credit & Financial Services :: Credit/loan approval,False,True,False
+la,Los Angeles,Ethnicity,Criminal Justice :: Arrest / detention by police,True,True,True
+la,Los Angeles,Ethnicity,Criminal Justice :: Incarceration,True,True,True
+la,Los Angeles,Ethnicity,Criminal Justice :: Police use of force,False,False,False
+la,Los Angeles,Ethnicity,Education :: College access/admission,True,True,True
+la,Los Angeles,Ethnicity,Education :: Educational opportunity/access,False,True,False
+la,Los Angeles,Ethnicity,Education :: Harassment/bullying,False,True,False
+la,Los Angeles,Ethnicity,Employment :: Career advancement,False,False,False
+la,Los Angeles,Ethnicity,Employment :: Hiring,True,True,True
+la,Los Angeles,Ethnicity,Employment :: Workplace harassment,False,True,False
+la,Los Angeles,Ethnicity,Government Benefits :: Access to government benefits,False,True,False
+la,Los Angeles,Ethnicity,Government Benefits :: Application/approval,False,True,False
+la,Los Angeles,Ethnicity,Government Benefits :: Benefit retention / renewal,False,True,False
+la,Los Angeles,Ethnicity,Healthcare :: Insurance coverage,False,False,False
+la,Los Angeles,Ethnicity,Healthcare :: Patient safety,True,True,True
+la,Los Angeles,Ethnicity,Healthcare :: Preventive care,False,True,False
+la,Los Angeles,Ethnicity,Housing :: Access to housing,True,False,False
+la,Los Angeles,Ethnicity,Housing :: Homelessness,True,True,True
+la,Los Angeles,Ethnicity,Housing :: Housing stability,False,False,False
+la,Los Angeles,Gender,Credit & Financial Services :: Access to banking services,False,True,False
+la,Los Angeles,Gender,Credit & Financial Services :: Access to credit,False,True,False
+la,Los Angeles,Gender,Credit & Financial Services :: Credit/loan approval,True,True,True
+la,Los Angeles,Gender,Criminal Justice :: Arrest / detention by police,False,True,False
+la,Los Angeles,Gender,Criminal Justice :: Incarceration,True,True,True
+la,Los Angeles,Gender,Criminal Justice :: Police use of force,False,False,False
+la,Los Angeles,Gender,Education :: College access/admission,False,True,False
+la,Los Angeles,Gender,Education :: Educational opportunity/access,False,True,False
+la,Los Angeles,Gender,Education :: Harassment/bullying,True,False,False
+la,Los Angeles,Gender,Employment :: Career advancement,True,False,False
+la,Los Angeles,Gender,Employment :: Hiring,True,False,False
+la,Los Angeles,Gender,Employment :: Workplace harassment,True,False,False
+la,Los Angeles,Gender,Government Benefits :: Access to government benefits,False,True,False
+la,Los Angeles,Gender,Government Benefits :: Application/approval,True,False,False
+la,Los Angeles,Gender,Government Benefits :: Benefit retention / renewal,False,True,False
+la,Los Angeles,Gender,Healthcare :: Insurance coverage,True,True,True
+la,Los Angeles,Gender,Healthcare :: Patient safety,False,False,False
+la,Los Angeles,Gender,Healthcare :: Preventive care,False,False,False
+la,Los Angeles,Gender,Housing :: Access to housing,True,True,True
+la,Los Angeles,Gender,Housing :: Homelessness,True,True,True
+la,Los Angeles,Gender,Housing :: Housing stability,False,True,False
+la,Los Angeles,Gender Identity,Credit & Financial Services :: Access to banking services,True,True,True
+la,Los Angeles,Gender Identity,Credit & Financial Services :: Access to credit,True,True,True
+la,Los Angeles,Gender Identity,Credit & Financial Services :: Credit/loan approval,True,True,True
+la,Los Angeles,Gender Identity,Criminal Justice :: Arrest / detention by police,False,True,False
+la,Los Angeles,Gender Identity,Criminal Justice :: Incarceration,True,False,False
+la,Los Angeles,Gender Identity,Criminal Justice :: Police use of force,False,True,False
+la,Los Angeles,Gender Identity,Education :: College access/admission,False,True,False
+la,Los Angeles,Gender Identity,Education :: Educational opportunity/access,True,False,False
+la,Los Angeles,Gender Identity,Education :: Harassment/bullying,False,False,False
+la,Los Angeles,Gender Identity,Employment :: Career advancement,False,True,False
+la,Los Angeles,Gender Identity,Employment :: Hiring,False,True,False
+la,Los Angeles,Gender Identity,Employment :: Workplace harassment,True,False,False
+la,Los Angeles,Gender Identity,Government Benefits :: Access to government benefits,True,True,True
+la,Los Angeles,Gender Identity,Government Benefits :: Application/approval,True,False,False
+la,Los Angeles,Gender Identity,Government Benefits :: Benefit retention / renewal,False,True,False
+la,Los Angeles,Gender Identity,Healthcare :: Insurance coverage,False,False,False
+la,Los Angeles,Gender Identity,Healthcare :: Patient safety,False,False,False
+la,Los Angeles,Gender Identity,Healthcare :: Preventive care,False,False,False
+la,Los Angeles,Gender Identity,Housing :: Access to housing,False,True,False
+la,Los Angeles,Gender Identity,Housing :: Homelessness,True,True,True
+la,Los Angeles,Gender Identity,Housing :: Housing stability,False,True,False
+la,Los Angeles,Race,Credit & Financial Services :: Access to banking services,True,False,False
+la,Los Angeles,Race,Credit & Financial Services :: Access to credit,True,True,True
+la,Los Angeles,Race,Credit & Financial Services :: Credit/loan approval,True,False,False
+la,Los Angeles,Race,Criminal Justice :: Arrest / detention by police,False,True,False
+la,Los Angeles,Race,Criminal Justice :: Incarceration,False,True,False
+la,Los Angeles,Race,Criminal Justice :: Police use of force,False,True,False
+la,Los Angeles,Race,Education :: College access/admission,True,False,False
+la,Los Angeles,Race,Education :: Educational opportunity/access,True,True,True
+la,Los Angeles,Race,Education :: Harassment/bullying,True,True,True
+la,Los Angeles,Race,Employment :: Career advancement,False,False,False
+la,Los Angeles,Race,Employment :: Hiring,True,True,True
+la,Los Angeles,Race,Employment :: Workplace harassment,False,False,False
+la,Los Angeles,Race,Government Benefits :: Access to government benefits,True,False,False
+la,Los Angeles,Race,Government Benefits :: Application/approval,False,False,False
+la,Los Angeles,Race,Government Benefits :: Benefit retention / renewal,False,False,False
+la,Los Angeles,Race,Healthcare :: Insurance coverage,False,False,False
+la,Los Angeles,Race,Healthcare :: Patient safety,False,False,False
+la,Los Angeles,Race,Healthcare :: Preventive care,False,False,False
+la,Los Angeles,Race,Housing :: Access to housing,False,True,False
+la,Los Angeles,Race,Housing :: Homelessness,True,True,True
+la,Los Angeles,Race,Housing :: Housing stability,True,True,True
+la,Los Angeles,Sexual Orientation,Credit & Financial Services :: Access to banking services,False,True,False
+la,Los Angeles,Sexual Orientation,Credit & Financial Services :: Access to credit,True,True,True
+la,Los Angeles,Sexual Orientation,Credit & Financial Services :: Credit/loan approval,True,True,True
+la,Los Angeles,Sexual Orientation,Criminal Justice :: Arrest / detention by police,False,True,False
+la,Los Angeles,Sexual Orientation,Criminal Justice :: Incarceration,False,True,False
+la,Los Angeles,Sexual Orientation,Criminal Justice :: Police use of force,False,True,False
+la,Los Angeles,Sexual Orientation,Education :: College access/admission,False,True,False
+la,Los Angeles,Sexual Orientation,Education :: Educational opportunity/access,False,True,False
+la,Los Angeles,Sexual Orientation,Education :: Harassment/bullying,False,True,False
+la,Los Angeles,Sexual Orientation,Employment :: Career advancement,False,False,False
+la,Los Angeles,Sexual Orientation,Employment :: Hiring,False,True,False
+la,Los Angeles,Sexual Orientation,Employment :: Workplace harassment,False,True,False
+la,Los Angeles,Sexual Orientation,Government Benefits :: Access to government benefits,False,True,False
+la,Los Angeles,Sexual Orientation,Government Benefits :: Application/approval,False,False,False
+la,Los Angeles,Sexual Orientation,Government Benefits :: Benefit retention / renewal,False,True,False
+la,Los Angeles,Sexual Orientation,Healthcare :: Insurance coverage,False,False,False
+la,Los Angeles,Sexual Orientation,Healthcare :: Patient safety,False,True,False
+la,Los Angeles,Sexual Orientation,Healthcare :: Preventive care,False,False,False
+la,Los Angeles,Sexual Orientation,Housing :: Access to housing,True,True,True
+la,Los Angeles,Sexual Orientation,Housing :: Homelessness,True,True,True
+la,Los Angeles,Sexual Orientation,Housing :: Housing stability,True,True,True
+ny,New York,Disability,Credit & Financial Services :: Access to banking services,False,True,False
+ny,New York,Disability,Credit & Financial Services :: Access to credit,True,True,True
+ny,New York,Disability,Credit & Financial Services :: Credit/loan approval,False,True,False
+ny,New York,Disability,Criminal Justice :: Arrest / detention by police,False,True,False
+ny,New York,Disability,Criminal Justice :: Incarceration,False,True,False
+ny,New York,Disability,Criminal Justice :: Police use of force,False,False,False
+ny,New York,Disability,Education :: College access/admission,False,False,False
+ny,New York,Disability,Education :: Educational opportunity/access,True,False,False
+ny,New York,Disability,Education :: Harassment/bullying,False,False,False
+ny,New York,Disability,Employment :: Career advancement,False,True,False
+ny,New York,Disability,Employment :: Hiring,True,True,True
+ny,New York,Disability,Employment :: Workplace harassment,False,False,False
+ny,New York,Disability,Government Benefits :: Access to government benefits,True,True,True
+ny,New York,Disability,Government Benefits :: Application/approval,True,True,True
+ny,New York,Disability,Government Benefits :: Benefit retention / renewal,False,True,False
+ny,New York,Disability,Healthcare :: Insurance coverage,True,True,True
+ny,New York,Disability,Healthcare :: Patient safety,True,False,False
+ny,New York,Disability,Healthcare :: Preventive care,True,False,False
+ny,New York,Disability,Housing :: Access to housing,False,True,False
+ny,New York,Disability,Housing :: Homelessness,True,True,True
+ny,New York,Disability,Housing :: Housing stability,True,False,False
+ny,New York,Ethnicity,Credit & Financial Services :: Access to banking services,False,True,False
+ny,New York,Ethnicity,Credit & Financial Services :: Access to credit,False,True,False
+ny,New York,Ethnicity,Credit & Financial Services :: Credit/loan approval,False,True,False
+ny,New York,Ethnicity,Criminal Justice :: Arrest / detention by police,True,True,True
+ny,New York,Ethnicity,Criminal Justice :: Incarceration,True,True,True
+ny,New York,Ethnicity,Criminal Justice :: Police use of force,False,False,False
+ny,New York,Ethnicity,Education :: College access/admission,True,True,True
+ny,New York,Ethnicity,Education :: Educational opportunity/access,True,True,True
+ny,New York,Ethnicity,Education :: Harassment/bullying,False,False,False
+ny,New York,Ethnicity,Employment :: Career advancement,False,True,False
+ny,New York,Ethnicity,Employment :: Hiring,False,True,False
+ny,New York,Ethnicity,Employment :: Workplace harassment,False,True,False
+ny,New York,Ethnicity,Government Benefits :: Access to government benefits,False,True,False
+ny,New York,Ethnicity,Government Benefits :: Application/approval,False,True,False
+ny,New York,Ethnicity,Government Benefits :: Benefit retention / renewal,False,True,False
+ny,New York,Ethnicity,Healthcare :: Insurance coverage,False,True,False
+ny,New York,Ethnicity,Healthcare :: Patient safety,False,False,False
+ny,New York,Ethnicity,Healthcare :: Preventive care,False,False,False
+ny,New York,Ethnicity,Housing :: Access to housing,False,True,False
+ny,New York,Ethnicity,Housing :: Homelessness,False,True,False
+ny,New York,Ethnicity,Housing :: Housing stability,False,True,False
+ny,New York,Gender,Credit & Financial Services :: Access to banking services,False,True,False
+ny,New York,Gender,Credit & Financial Services :: Access to credit,True,True,True
+ny,New York,Gender,Credit & Financial Services :: Credit/loan approval,True,True,True
+ny,New York,Gender,Criminal Justice :: Arrest / detention by police,False,True,False
+ny,New York,Gender,Criminal Justice :: Incarceration,True,True,True
+ny,New York,Gender,Criminal Justice :: Police use of force,False,False,False
+ny,New York,Gender,Education :: College access/admission,True,True,True
+ny,New York,Gender,Education :: Educational opportunity/access,False,True,False
+ny,New York,Gender,Education :: Harassment/bullying,True,True,True
+ny,New York,Gender,Employment :: Career advancement,True,False,False
+ny,New York,Gender,Employment :: Hiring,True,False,False
+ny,New York,Gender,Employment :: Workplace harassment,True,False,False
+ny,New York,Gender,Government Benefits :: Access to government benefits,True,True,True
+ny,New York,Gender,Government Benefits :: Application/approval,False,True,False
+ny,New York,Gender,Government Benefits :: Benefit retention / renewal,True,False,False
+ny,New York,Gender,Healthcare :: Insurance coverage,True,True,True
+ny,New York,Gender,Healthcare :: Patient safety,True,True,True
+ny,New York,Gender,Healthcare :: Preventive care,True,True,True
+ny,New York,Gender,Housing :: Access to housing,False,True,False
+ny,New York,Gender,Housing :: Homelessness,True,True,True
+ny,New York,Gender,Housing :: Housing stability,True,False,False
+ny,New York,Gender Identity,Credit & Financial Services :: Access to banking services,True,True,True
+ny,New York,Gender Identity,Credit & Financial Services :: Access to credit,False,True,False
+ny,New York,Gender Identity,Credit & Financial Services :: Credit/loan approval,False,True,False
+ny,New York,Gender Identity,Criminal Justice :: Arrest / detention by police,True,True,True
+ny,New York,Gender Identity,Criminal Justice :: Incarceration,False,True,False
+ny,New York,Gender Identity,Criminal Justice :: Police use of force,False,True,False
+ny,New York,Gender Identity,Education :: College access/admission,False,True,False
+ny,New York,Gender Identity,Education :: Educational opportunity/access,False,True,False
+ny,New York,Gender Identity,Education :: Harassment/bullying,True,True,True
+ny,New York,Gender Identity,Employment :: Career advancement,True,True,True
+ny,New York,Gender Identity,Employment :: Hiring,False,False,False
+ny,New York,Gender Identity,Employment :: Workplace harassment,False,False,False
+ny,New York,Gender Identity,Government Benefits :: Access to government benefits,True,True,True
+ny,New York,Gender Identity,Government Benefits :: Application/approval,True,True,True
+ny,New York,Gender Identity,Government Benefits :: Benefit retention / renewal,False,True,False
+ny,New York,Gender Identity,Healthcare :: Insurance coverage,False,True,False
+ny,New York,Gender Identity,Healthcare :: Patient safety,False,True,False
+ny,New York,Gender Identity,Healthcare :: Preventive care,False,False,False
+ny,New York,Gender Identity,Housing :: Access to housing,False,True,False
+ny,New York,Gender Identity,Housing :: Homelessness,True,True,True
+ny,New York,Gender Identity,Housing :: Housing stability,False,True,False
+ny,New York,Race,Credit & Financial Services :: Access to banking services,True,True,True
+ny,New York,Race,Credit & Financial Services :: Access to credit,True,False,False
+ny,New York,Race,Credit & Financial Services :: Credit/loan approval,True,True,True
+ny,New York,Race,Criminal Justice :: Arrest / detention by police,True,True,True
+ny,New York,Race,Criminal Justice :: Incarceration,True,True,True
+ny,New York,Race,Criminal Justice :: Police use of force,True,False,False
+ny,New York,Race,Education :: College access/admission,True,False,False
+ny,New York,Race,Education :: Educational opportunity/access,True,True,True
+ny,New York,Race,Education :: Harassment/bullying,False,True,False
+ny,New York,Race,Employment :: Career advancement,False,True,False
+ny,New York,Race,Employment :: Hiring,True,True,True
+ny,New York,Race,Employment :: Workplace harassment,False,True,False
+ny,New York,Race,Government Benefits :: Access to government benefits,True,False,False
+ny,New York,Race,Government Benefits :: Application/approval,False,False,False
+ny,New York,Race,Government Benefits :: Benefit retention / renewal,False,True,False
+ny,New York,Race,Healthcare :: Insurance coverage,False,True,False
+ny,New York,Race,Healthcare :: Patient safety,False,False,False
+ny,New York,Race,Healthcare :: Preventive care,True,False,False
+ny,New York,Race,Housing :: Access to housing,True,True,True
+ny,New York,Race,Housing :: Homelessness,True,True,True
+ny,New York,Race,Housing :: Housing stability,False,False,False
+ny,New York,Sexual Orientation,Credit & Financial Services :: Access to banking services,False,True,False
+ny,New York,Sexual Orientation,Credit & Financial Services :: Access to credit,True,True,True
+ny,New York,Sexual Orientation,Credit & Financial Services :: Credit/loan approval,True,True,True
+ny,New York,Sexual Orientation,Criminal Justice :: Arrest / detention by police,True,True,True
+ny,New York,Sexual Orientation,Criminal Justice :: Incarceration,False,True,False
+ny,New York,Sexual Orientation,Criminal Justice :: Police use of force,False,True,False
+ny,New York,Sexual Orientation,Education :: College access/admission,True,True,True
+ny,New York,Sexual Orientation,Education :: Educational opportunity/access,True,False,False
+ny,New York,Sexual Orientation,Education :: Harassment/bullying,False,True,False
+ny,New York,Sexual Orientation,Employment :: Career advancement,True,False,False
+ny,New York,Sexual Orientation,Employment :: Hiring,False,False,False
+ny,New York,Sexual Orientation,Employment :: Workplace harassment,True,True,True
+ny,New York,Sexual Orientation,Government Benefits :: Access to government benefits,False,False,False
+ny,New York,Sexual Orientation,Government Benefits :: Application/approval,True,False,False
+ny,New York,Sexual Orientation,Government Benefits :: Benefit retention / renewal,False,False,False
+ny,New York,Sexual Orientation,Healthcare :: Insurance coverage,False,False,False
+ny,New York,Sexual Orientation,Healthcare :: Patient safety,False,True,False
+ny,New York,Sexual Orientation,Healthcare :: Preventive care,False,False,False
+ny,New York,Sexual Orientation,Housing :: Access to housing,False,True,False
+ny,New York,Sexual Orientation,Housing :: Homelessness,True,True,True
+ny,New York,Sexual Orientation,Housing :: Housing stability,True,True,True

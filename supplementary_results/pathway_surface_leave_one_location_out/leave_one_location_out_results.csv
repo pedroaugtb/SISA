@@ -1,0 +1,5 @@
+omitted_location,included_locations,n_locations,n_outcomes,n_observations,blocked_rank_correlation,ci_low,ci_high,p_permutation_raw,n_permutations,n_bootstrap,change_from_full_sample,positive_estimate,ci_excludes_zero
+None (all three locations),Dallas + New York + Los Angeles,3,21,252,0.4010567820206754,0.28202249267446655,0.5066416635720579,4.999750012499375e-05,20000,5000,0.0,True,True
+Dallas,New York + Los Angeles,2,21,252,0.37726876013510036,0.24280803371237641,0.49143093871422416,4.999750012499375e-05,20000,5000,-0.02378802188557505,True,True
+New York,Dallas + Los Angeles,2,21,252,0.4827106672847078,0.3584823644693266,0.5820581860547103,4.999750012499375e-05,20000,5000,0.08165388526403239,True,True
+Los Angeles,Dallas + New York,2,21,252,0.32909841078603047,0.20137917138214084,0.4352897078870117,4.999750012499375e-05,20000,5000,-0.07195837123464494,True,True

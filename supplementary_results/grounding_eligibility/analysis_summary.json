@@ -1,0 +1,51 @@
+{
+  "eligibility_rule": {
+    "minimum_fetch_coverage": 0.5,
+    "minimum_available_sources": 3,
+    "metric_must_be_nonmissing": "evidence_semantic_gap_source_balanced"
+  },
+  "all_primary_responses": 819,
+  "all_primary_eligible": 476,
+  "all_primary_eligible_rate": 0.5811965811965812,
+  "explicit_group_responses": 756,
+  "explicit_group_eligible": 441,
+  "explicit_group_eligible_rate": 0.5833333333333334,
+  "control_responses": 63,
+  "control_eligible": 35,
+  "control_eligible_rate": 0.5555555555555556,
+  "complete_location_outcome_pairs": 122,
+  "possible_location_outcome_pairs": 378,
+  "complete_location_outcome_pair_rate": 0.32275132275132273,
+  "pooled_dimension_outcome_pairs_with_at_least_one_complete_location": 76,
+  "possible_pooled_dimension_outcome_pairs": 126,
+  "figure_4_5_continuous_association_condition_outcome_means": 212,
+  "figure_4_5_condition_outcome_means_by_condition": {
+    "majority": 97,
+    "minority": 115
+  },
+  "figure_4_5_condition_outcome_means_by_eligible_location_count": {
+    "1": 67,
+    "2": 61,
+    "3": 84
+  },
+  "minority_eligible_rate": 0.6984126984126984,
+  "majority_eligible_rate": 0.4682539682539682,
+  "minority_minus_majority_rate_difference": 0.23015873015873017,
+  "eligibility_difference_ci": [
+    0.15873015873015875,
+    0.29894179894179895
+  ],
+  "eligibility_difference_p_signflip": 1.4999925000374999e-05,
+  "criterion_pass_rates_by_condition": {
+    "minority": {
+      "coverage_at_least_50pct": 0.7037037037037037,
+      "at_least_3_available_sources": 0.8994708994708994,
+      "grounding_metric_nonmissing": 0.9841269841269841
+    },
+    "majority": {
+      "coverage_at_least_50pct": 0.5608465608465608,
+      "at_least_3_available_sources": 0.6190476190476191,
+      "grounding_metric_nonmissing": 0.9047619047619048
+    }
+  }
+}

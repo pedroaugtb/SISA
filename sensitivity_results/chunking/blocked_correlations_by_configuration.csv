@@ -1,0 +1,4 @@
+configuration,relationship,n_observations,n_outcomes,blocked_rank_correlation,cluster_bootstrap_ci_low,cluster_bootstrap_ci_high,p_blocked_permutation
+primary,answer_displacement_to_evidence_alignment,212,21,0.38880328710837186,0.29179894507689846,0.48707271172695854,4.999750012499375e-05
+smaller,answer_displacement_to_evidence_alignment,212,21,0.41705187467899335,0.32843583812436977,0.5102766688708743,4.999750012499375e-05
+high_context,answer_displacement_to_evidence_alignment,212,21,0.371854134565999,0.25799037868210883,0.4734993134975296,4.999750012499375e-05

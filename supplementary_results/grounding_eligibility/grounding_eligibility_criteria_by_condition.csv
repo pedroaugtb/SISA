@@ -1,0 +1,3 @@
+condition,n_responses,mean_fetch_coverage,passes_coverage_n,passes_coverage_rate,passes_source_count_n,passes_source_count_rate,has_grounding_metric_n,has_grounding_metric_rate,grounding_eligible_n,grounding_eligible_rate
+minority,378,0.5623628249629526,266,0.7037037037037037,340,0.8994708994708994,372,0.9841269841269841,264,0.6984126984126984
+majority,378,0.5181150739985171,212,0.5608465608465608,234,0.6190476190476191,342,0.9047619047619048,177,0.46825396825396826

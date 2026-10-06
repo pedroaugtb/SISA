@@ -1,0 +1,4 @@
+location,all_responses_eligible_n,all_responses_n,all_responses_eligible_rate,explicit_responses_eligible_n,explicit_responses_n,explicit_responses_eligible_rate,complete_pairs_n,possible_pairs_n,complete_pair_rate
+Dallas,171,273,0.6263736263736264,160,252,0.6349206349206349,47,126,0.373015873015873
+New York,161,273,0.5897435897435898,148,252,0.5873015873015873,42,126,0.3333333333333333
+Los Angeles,144,273,0.5274725274725275,133,252,0.5277777777777778,33,126,0.2619047619047619

@@ -1,0 +1,37 @@
+location,dimension,outcome_id,minority,majority,difference
+dallas,Disability,Credit & Financial Services :: Credit score,0.3100727200508117,0.3910107215245565,-0.0809380014737448
+dallas,Disability,Education :: Completion/graduation,0.203860867023468,0.251518964767456,-0.04765809774398799
+dallas,Ethnicity,Education :: Completion/graduation,0.2591857228960309,0.2483236278806414,0.010862095015389511
+dallas,Gender,Credit & Financial Services :: Credit score,0.2881446083386739,0.3641311923662821,-0.07598658402760822
+dallas,Gender,Criminal Justice :: Police-initiated contact,0.2448019534349441,0.2226326316595077,0.0221693217754364
+dallas,Gender Identity,Credit & Financial Services :: Credit score,0.3656778484582901,0.3008409341176351,0.06483691434065503
+dallas,Gender Identity,Education :: Completion/graduation,0.2733231062690416,0.2184761762619018,0.054846930007139805
+dallas,Race,Credit & Financial Services :: Credit score,0.2404352128505706,0.2720940947532654,-0.03165888190269481
+dallas,Race,Criminal Justice :: Police-initiated contact,0.222372810045878,0.2566802302996317,-0.03430742025375372
+dallas,Race,Education :: Completion/graduation,0.2295967191457748,0.2700064897537231,-0.04040977060794829
+dallas,Sexual Orientation,Credit & Financial Services :: Credit score,0.3034687240918478,0.3552078127861022,-0.05173908869425442
+ny,Disability,Credit & Financial Services :: Credit score,0.329669733842214,0.3513925313949585,-0.021722797552744533
+ny,Disability,Criminal Justice :: Police-initiated contact,0.2609780907630921,0.2759528905153274,-0.014974799752235313
+ny,Ethnicity,Criminal Justice :: Police-initiated contact,0.2693504293759664,0.2053713798522949,0.06397904952367153
+ny,Ethnicity,Education :: Completion/graduation,0.2521835962931315,0.2788462758064269,-0.02666267951329543
+ny,Ethnicity,Employment :: Employment benefits,0.2308949331442514,0.3103320399920145,-0.07943710684776306
+ny,Gender,Credit & Financial Services :: Credit score,0.348987303674221,0.3629460260272026,-0.013958722352981623
+ny,Gender,Criminal Justice :: Police-initiated contact,0.2812258601188659,0.2352752566337586,0.04595060348510732
+ny,Gender Identity,Credit & Financial Services :: Credit score,0.3084112882614136,0.2988736970084054,0.009537591253008237
+ny,Gender Identity,Education :: Completion/graduation,0.2212808355689048,0.3827849626541137,-0.16150412708520892
+ny,Race,Credit & Financial Services :: Credit score,0.2311636635235378,0.2590952316919962,-0.02793156816845843
+ny,Race,Criminal Justice :: Police-initiated contact,0.207441258430481,0.244857649008433,-0.037416390577951986
+ny,Race,Education :: Completion/graduation,0.2310847441355387,0.2398786644140879,-0.008793920278549194
+ny,Race,Housing :: Neighborhood quality,0.246207857131958,0.2529492378234863,-0.00674138069152827
+ny,Sexual Orientation,Criminal Justice :: Police-initiated contact,0.2351534515619278,0.2702284455299377,-0.03507499396800989
+ny,Sexual Orientation,Education :: Completion/graduation,0.224469264348348,0.2281197980046272,-0.003650533656279209
+la,Disability,Credit & Financial Services :: Credit score,0.3319142063458761,0.3483550429344177,-0.01644083658854162
+la,Ethnicity,Education :: Completion/graduation,0.2453650335470835,0.2642350316047668,-0.0188699980576833
+la,Ethnicity,Healthcare :: Person-centered care,0.360709935426712,0.2997312744458517,0.0609786609808603
+la,Gender,Credit & Financial Services :: Credit score,0.3070886731147766,0.3001907212393624,0.006897951875414199
+la,Gender,Criminal Justice :: Police-initiated contact,0.23169906437397,0.2381136218706766,-0.006414557496706608
+la,Gender,Education :: Completion/graduation,0.249649703502655,0.2772542685270309,-0.027604565024375888
+la,Gender Identity,Credit & Financial Services :: Credit score,0.3673232330216301,0.2556674991335187,0.1116557338881114
+la,Gender Identity,Criminal Justice :: Police-initiated contact,0.242185391485691,0.260246492922306,-0.018061101436615018
+la,Race,Criminal Justice :: Police-initiated contact,0.195864995320638,0.2702459543943405,-0.07438095907370251
+la,Sexual Orientation,Credit & Financial Services :: Credit score,0.4050864974657694,0.3867577115694681,0.018328785896301325

@@ -1,0 +1,25 @@
+analysis,dimension,n_locations_available,n_positive_effects,n_negative_effects,direction_consistent_all_locations,mean_effect_across_locations_descriptive
+answer_semantic_displacement,Disability,3,3,0,True,0.13422562183333334
+answer_semantic_displacement,Ethnicity,3,3,0,True,0.06780205596666666
+answer_semantic_displacement,Gender,3,3,0,True,0.017755199033333335
+answer_semantic_displacement,Gender Identity,3,3,0,True,0.15034308886666667
+answer_semantic_displacement,Race,3,2,1,False,0.004387783133333333
+answer_semantic_displacement,Sexual Orientation,3,3,0,True,0.08755378776666667
+citation_count,Disability,3,3,0,True,2.9523809523666666
+citation_count,Ethnicity,3,3,0,True,1.8571428571333335
+citation_count,Gender,3,3,0,True,0.7142857143
+citation_count,Gender Identity,3,3,0,True,2.9523809524
+citation_count,Race,3,3,0,True,2.523809523833333
+citation_count,Sexual Orientation,3,3,0,True,2.619047619033333
+evidence_semantic_gap,Disability,3,0,3,True,-0.0330292283
+evidence_semantic_gap,Ethnicity,3,2,1,False,0.005958726966666667
+evidence_semantic_gap,Gender,3,1,2,False,-0.0066510269
+evidence_semantic_gap,Gender Identity,3,2,1,False,0.010218656833333334
+evidence_semantic_gap,Race,3,0,3,True,-0.0433534883
+evidence_semantic_gap,Sexual Orientation,3,1,2,False,-0.017591022199999997
+source_url_jaccard_distance,Disability,3,3,0,True,0.11700207276666667
+source_url_jaccard_distance,Ethnicity,3,3,0,True,0.013364413366666666
+source_url_jaccard_distance,Gender,3,3,0,True,0.09344911623333334
+source_url_jaccard_distance,Gender Identity,3,2,1,False,0.021824986433333332
+source_url_jaccard_distance,Race,3,2,1,False,0.008703910966666667
+source_url_jaccard_distance,Sexual Orientation,3,3,0,True,0.0808144159

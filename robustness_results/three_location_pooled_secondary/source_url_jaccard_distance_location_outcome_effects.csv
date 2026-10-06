@@ -1,0 +1,127 @@
+location,dimension,outcome_id,minority,majority,difference
+dallas,Disability,Credit & Financial Services :: Credit score,1.0,0.7857142857142857,0.2142857142857143
+dallas,Disability,Criminal Justice :: Police-initiated contact,1.0,0.8125,0.1875
+dallas,Disability,Education :: Completion/graduation,1.0,0.9333333333333332,0.06666666666666676
+dallas,Disability,Employment :: Employment benefits,1.0,1.0,0.0
+dallas,Disability,Government Benefits :: Administrative burden,0.9285714285714286,0.5833333333333333,0.34523809523809534
+dallas,Disability,Healthcare :: Person-centered care,1.0,0.8181818181818181,0.18181818181818188
+dallas,Disability,Housing :: Neighborhood quality,1.0,0.7692307692307692,0.23076923076923084
+dallas,Ethnicity,Credit & Financial Services :: Credit score,1.0,1.0,0.0
+dallas,Ethnicity,Criminal Justice :: Police-initiated contact,0.9166666666666666,0.75,0.16666666666666663
+dallas,Ethnicity,Education :: Completion/graduation,1.0,1.0,0.0
+dallas,Ethnicity,Employment :: Employment benefits,1.0,1.0,0.0
+dallas,Ethnicity,Government Benefits :: Administrative burden,1.0,1.0,0.0
+dallas,Ethnicity,Healthcare :: Person-centered care,1.0,1.0,0.0
+dallas,Ethnicity,Housing :: Neighborhood quality,1.0,1.0,0.0
+dallas,Gender,Credit & Financial Services :: Credit score,0.75,0.7777777777777778,-0.02777777777777779
+dallas,Gender,Criminal Justice :: Police-initiated contact,1.0,0.5555555555555556,0.4444444444444444
+dallas,Gender,Education :: Completion/graduation,0.8666666666666667,0.9444444444444444,-0.07777777777777772
+dallas,Gender,Employment :: Employment benefits,1.0,1.0,0.0
+dallas,Gender,Government Benefits :: Administrative burden,0.9166666666666666,0.6363636363636364,0.2803030303030303
+dallas,Gender,Healthcare :: Person-centered care,1.0,1.0,0.0
+dallas,Gender,Housing :: Neighborhood quality,0.8823529411764706,0.75,0.13235294117647056
+dallas,Gender Identity,Credit & Financial Services :: Credit score,0.9411764705882352,1.0,-0.05882352941176483
+dallas,Gender Identity,Criminal Justice :: Police-initiated contact,1.0,0.8823529411764706,0.11764705882352944
+dallas,Gender Identity,Education :: Completion/graduation,1.0,1.0,0.0
+dallas,Gender Identity,Employment :: Employment benefits,1.0,1.0,0.0
+dallas,Gender Identity,Government Benefits :: Administrative burden,0.9333333333333332,0.8571428571428572,0.07619047619047603
+dallas,Gender Identity,Healthcare :: Person-centered care,1.0,1.0,0.0
+dallas,Gender Identity,Housing :: Neighborhood quality,1.0,1.0,0.0
+dallas,Race,Credit & Financial Services :: Credit score,1.0,1.0,0.0
+dallas,Race,Criminal Justice :: Police-initiated contact,0.9090909090909092,1.0,-0.09090909090909083
+dallas,Race,Education :: Completion/graduation,1.0,1.0,0.0
+dallas,Race,Employment :: Employment benefits,1.0,1.0,0.0
+dallas,Race,Government Benefits :: Administrative burden,0.8571428571428572,0.7272727272727273,0.1298701298701299
+dallas,Race,Healthcare :: Person-centered care,1.0,1.0,0.0
+dallas,Race,Housing :: Neighborhood quality,1.0,1.0,0.0
+dallas,Sexual Orientation,Credit & Financial Services :: Credit score,0.9166666666666666,0.9166666666666666,0.0
+dallas,Sexual Orientation,Criminal Justice :: Police-initiated contact,1.0,0.8125,0.1875
+dallas,Sexual Orientation,Education :: Completion/graduation,1.0,1.0,0.0
+dallas,Sexual Orientation,Employment :: Employment benefits,1.0,1.0,0.0
+dallas,Sexual Orientation,Government Benefits :: Administrative burden,1.0,0.6363636363636364,0.36363636363636365
+dallas,Sexual Orientation,Healthcare :: Person-centered care,1.0,1.0,0.0
+dallas,Sexual Orientation,Housing :: Neighborhood quality,1.0,1.0,0.0
+ny,Disability,Credit & Financial Services :: Credit score,1.0,0.8461538461538461,0.15384615384615385
+ny,Disability,Criminal Justice :: Police-initiated contact,0.9615384615384616,0.9444444444444444,0.017094017094017144
+ny,Disability,Education :: Completion/graduation,1.0,1.0,0.0
+ny,Disability,Employment :: Employment benefits,1.0,1.0,0.0
+ny,Disability,Government Benefits :: Administrative burden,0.9411764705882352,0.7857142857142857,0.15546218487394947
+ny,Disability,Healthcare :: Person-centered care,1.0,0.8,0.19999999999999996
+ny,Disability,Housing :: Neighborhood quality,0.95,0.7692307692307692,0.1807692307692308
+ny,Ethnicity,Credit & Financial Services :: Credit score,1.0,0.9166666666666666,0.08333333333333337
+ny,Ethnicity,Criminal Justice :: Police-initiated contact,1.0,0.9,0.09999999999999998
+ny,Ethnicity,Education :: Completion/graduation,1.0,1.0,0.0
+ny,Ethnicity,Employment :: Employment benefits,1.0,1.0,0.0
+ny,Ethnicity,Government Benefits :: Administrative burden,0.9230769230769232,1.0,-0.07692307692307676
+ny,Ethnicity,Healthcare :: Person-centered care,1.0,1.0,0.0
+ny,Ethnicity,Housing :: Neighborhood quality,1.0,1.0,0.0
+ny,Gender,Credit & Financial Services :: Credit score,0.7142857142857143,0.7692307692307692,-0.05494505494505486
+ny,Gender,Criminal Justice :: Police-initiated contact,0.9166666666666666,0.7272727272727273,0.18939393939393934
+ny,Gender,Education :: Completion/graduation,0.875,0.9444444444444444,-0.06944444444444442
+ny,Gender,Employment :: Employment benefits,1.0,1.0,0.0
+ny,Gender,Government Benefits :: Administrative burden,0.6875,0.5454545454545454,0.14204545454545459
+ny,Gender,Healthcare :: Person-centered care,0.9545454545454546,0.8333333333333334,0.12121212121212122
+ny,Gender,Housing :: Neighborhood quality,0.95,0.4285714285714286,0.5214285714285714
+ny,Gender Identity,Credit & Financial Services :: Credit score,1.0,0.9375,0.0625
+ny,Gender Identity,Criminal Justice :: Police-initiated contact,1.0,0.9411764705882352,0.05882352941176483
+ny,Gender Identity,Education :: Completion/graduation,1.0,1.0,0.0
+ny,Gender Identity,Employment :: Employment benefits,1.0,1.0,0.0
+ny,Gender Identity,Government Benefits :: Administrative burden,1.0,0.9444444444444444,0.05555555555555558
+ny,Gender Identity,Healthcare :: Person-centered care,1.0,1.0,0.0
+ny,Gender Identity,Housing :: Neighborhood quality,1.0,0.84,0.16000000000000003
+ny,Race,Credit & Financial Services :: Credit score,1.0,1.0,0.0
+ny,Race,Criminal Justice :: Police-initiated contact,0.9285714285714286,1.0,-0.0714285714285714
+ny,Race,Education :: Completion/graduation,1.0,1.0,0.0
+ny,Race,Employment :: Employment benefits,1.0,1.0,0.0
+ny,Race,Government Benefits :: Administrative burden,0.8947368421052632,0.8461538461538461,0.04858299595141702
+ny,Race,Healthcare :: Person-centered care,1.0,1.0,0.0
+ny,Race,Housing :: Neighborhood quality,1.0,1.0,0.0
+ny,Sexual Orientation,Credit & Financial Services :: Credit score,0.9166666666666666,0.7777777777777778,0.13888888888888884
+ny,Sexual Orientation,Criminal Justice :: Police-initiated contact,1.0,0.9285714285714286,0.0714285714285714
+ny,Sexual Orientation,Education :: Completion/graduation,1.0,1.0,0.0
+ny,Sexual Orientation,Employment :: Employment benefits,1.0,1.0,0.0
+ny,Sexual Orientation,Government Benefits :: Administrative burden,1.0,0.8235294117647058,0.17647058823529416
+ny,Sexual Orientation,Healthcare :: Person-centered care,1.0,1.0,0.0
+ny,Sexual Orientation,Housing :: Neighborhood quality,1.0,1.0,0.0
+la,Disability,Credit & Financial Services :: Credit score,1.0,0.8461538461538461,0.15384615384615385
+la,Disability,Criminal Justice :: Police-initiated contact,1.0,1.0,0.0
+la,Disability,Education :: Completion/graduation,1.0,1.0,0.0
+la,Disability,Employment :: Employment benefits,1.0,1.0,0.0
+la,Disability,Government Benefits :: Administrative burden,0.8571428571428572,1.0,-0.1428571428571428
+la,Disability,Healthcare :: Person-centered care,0.9411764705882352,0.7142857142857143,0.22689075630252087
+la,Disability,Housing :: Neighborhood quality,1.0,0.7142857142857143,0.2857142857142857
+la,Ethnicity,Credit & Financial Services :: Credit score,1.0,0.9090909090909092,0.09090909090909083
+la,Ethnicity,Criminal Justice :: Police-initiated contact,1.0,1.0,0.0
+la,Ethnicity,Education :: Completion/graduation,1.0,1.0,0.0
+la,Ethnicity,Employment :: Employment benefits,1.0,1.0,0.0
+la,Ethnicity,Government Benefits :: Administrative burden,0.9166666666666666,1.0,-0.08333333333333337
+la,Ethnicity,Healthcare :: Person-centered care,1.0,1.0,0.0
+la,Ethnicity,Housing :: Neighborhood quality,1.0,1.0,0.0
+la,Gender,Credit & Financial Services :: Credit score,0.7692307692307692,0.7692307692307692,0.0
+la,Gender,Criminal Justice :: Police-initiated contact,1.0,1.0,0.0
+la,Gender,Education :: Completion/graduation,1.0,1.0,0.0
+la,Gender,Employment :: Employment benefits,1.0,1.0,0.0
+la,Gender,Government Benefits :: Administrative burden,0.7142857142857143,0.75,-0.0357142857142857
+la,Gender,Healthcare :: Person-centered care,1.0,0.7272727272727273,0.2727272727272727
+la,Gender,Housing :: Neighborhood quality,0.8888888888888888,0.7647058823529411,0.12418300653594772
+la,Gender Identity,Credit & Financial Services :: Credit score,0.9444444444444444,0.9375,0.00694444444444442
+la,Gender Identity,Criminal Justice :: Police-initiated contact,1.0,1.0,0.0
+la,Gender Identity,Education :: Completion/graduation,1.0,1.0,0.0
+la,Gender Identity,Employment :: Employment benefits,1.0,1.0,0.0
+la,Gender Identity,Government Benefits :: Administrative burden,0.8461538461538461,0.8666666666666667,-0.02051282051282055
+la,Gender Identity,Healthcare :: Person-centered care,1.0,1.0,0.0
+la,Gender Identity,Housing :: Neighborhood quality,1.0,1.0,0.0
+la,Race,Credit & Financial Services :: Credit score,1.0,1.0,0.0
+la,Race,Criminal Justice :: Police-initiated contact,1.0,1.0,0.0
+la,Race,Education :: Completion/graduation,1.0,1.0,0.0
+la,Race,Employment :: Employment benefits,1.0,1.0,0.0
+la,Race,Government Benefits :: Administrative burden,1.0,0.8333333333333334,0.16666666666666663
+la,Race,Healthcare :: Person-centered care,1.0,1.0,0.0
+la,Race,Housing :: Neighborhood quality,1.0,1.0,0.0
+la,Sexual Orientation,Credit & Financial Services :: Credit score,0.9375,0.5,0.4375
+la,Sexual Orientation,Criminal Justice :: Police-initiated contact,1.0,1.0,0.0
+la,Sexual Orientation,Education :: Completion/graduation,1.0,1.0,0.0
+la,Sexual Orientation,Employment :: Employment benefits,1.0,1.0,0.0
+la,Sexual Orientation,Government Benefits :: Administrative burden,1.0,0.7692307692307692,0.23076923076923084
+la,Sexual Orientation,Healthcare :: Person-centered care,1.0,0.9090909090909092,0.09090909090909083
+la,Sexual Orientation,Housing :: Neighborhood quality,1.0,1.0,0.0

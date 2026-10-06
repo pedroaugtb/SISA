@@ -1,0 +1,13 @@
+{
+  "n_primary_outcomes": 21,
+  "n_locations": 3,
+  "n_measures": 3,
+  "n_dimensions": 6,
+  "n_measure_dimension_cells": 18,
+  "n_outcome_effects": 378,
+  "positive_medians": 15,
+  "cells_with_majority_positive_outcomes": 15,
+  "cells_with_any_leave_one_outcome_sign_reversal": 0,
+  "total_leave_one_outcome_sign_reversals": 0,
+  "zero_tolerance": 1e-12
+}

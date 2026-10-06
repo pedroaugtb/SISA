@@ -1,0 +1,20 @@
+{
+  "metric_x": "url_jaccard_distance",
+  "metric_y": "dense_distance_subject_normalized",
+  "blocking_variable": "outcome_id",
+  "pooled_full_sample_r": 0.4010567820206754,
+  "pooled_full_sample_ci": [
+    0.28202249267446655,
+    0.5066416635720579
+  ],
+  "pooled_lodo_min_r": 0.3767730538063527,
+  "pooled_lodo_max_r": 0.4259415993301898,
+  "pooled_lodo_positive": 7,
+  "pooled_lodo_total": 7,
+  "pooled_lodo_ci_excludes_zero": 7,
+  "location_lodo_positive": 21,
+  "location_lodo_total": 21,
+  "location_lodo_ci_excludes_zero": 21,
+  "n_permutations": 20000,
+  "n_bootstrap": 5000
+}

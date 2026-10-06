@@ -1,0 +1,5 @@
+n_outcomes,mean_difference,median_difference,bootstrap_ci_low,bootstrap_ci_high,rank_biserial,p_permutation_raw,permutation_method,wilcoxon_W,p_wilcoxon_raw,analysis,minimum_dimensions_required,mean_dimensions_per_outcome,mean_location_replicates_per_outcome
+7,2.2698412698412698,2.5555555555555554,1.3333333333333335,3.1904761904761907,1.0,0.015625,exact_signflip_2^7,0.0,0.015625,citation_count,2,6.0,3.0
+7,0.05585981927497481,0.0666948565232879,0.025738517370170043,0.08266232901644963,0.9047619047619048,0.0625,exact_signflip_2^6,1.0,0.0625,source_url_jaccard_distance,2,6.0,3.0
+7,0.07701125610915442,0.07385881741841635,0.061245799892478525,0.09216017145959159,1.0,0.015625,exact_signflip_2^7,0.0,0.015625,answer_semantic_displacement,2,6.0,3.0
+3,-0.014606301828666951,-0.010374658662806095,-0.028066750209798246,-0.00537749661339651,-1.0,0.25,exact_signflip_2^3,0.0,0.25,evidence_semantic_gap,2,5.666666666666667,1.9777777777777779

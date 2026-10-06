@@ -1,0 +1,379 @@
+measure_id,measure,dimension,outcome_id,outcome_effect,n_locations,domain,outcome
+citation_count,Citation count,Disability,Credit & Financial Services :: Access to banking services,7.0,3,Credit & Financial Services,Access to banking services
+citation_count,Citation count,Disability,Credit & Financial Services :: Access to credit,2.6666666666666665,3,Credit & Financial Services,Access to credit
+citation_count,Citation count,Disability,Credit & Financial Services :: Credit/loan approval,4.333333333333333,3,Credit & Financial Services,Credit/loan approval
+citation_count,Citation count,Disability,Criminal Justice :: Arrest / detention by police,3.3333333333333335,3,Criminal Justice,Arrest / detention by police
+citation_count,Citation count,Disability,Criminal Justice :: Incarceration,6.333333333333333,3,Criminal Justice,Incarceration
+citation_count,Citation count,Disability,Criminal Justice :: Police use of force,1.0,3,Criminal Justice,Police use of force
+citation_count,Citation count,Disability,Education :: College access/admission,9.333333333333334,3,Education,College access/admission
+citation_count,Citation count,Disability,Education :: Educational opportunity/access,6.666666666666667,3,Education,Educational opportunity/access
+citation_count,Citation count,Disability,Education :: Harassment/bullying,5.333333333333333,3,Education,Harassment/bullying
+citation_count,Citation count,Disability,Employment :: Career advancement,8.333333333333334,3,Employment,Career advancement
+citation_count,Citation count,Disability,Employment :: Hiring,5.333333333333333,3,Employment,Hiring
+citation_count,Citation count,Disability,Employment :: Workplace harassment,6.666666666666667,3,Employment,Workplace harassment
+citation_count,Citation count,Disability,Government Benefits :: Access to government benefits,1.6666666666666667,3,Government Benefits,Access to government benefits
+citation_count,Citation count,Disability,Government Benefits :: Application/approval,2.3333333333333335,3,Government Benefits,Application/approval
+citation_count,Citation count,Disability,Government Benefits :: Benefit retention / renewal,2.3333333333333335,3,Government Benefits,Benefit retention / renewal
+citation_count,Citation count,Disability,Healthcare :: Insurance coverage,3.0,3,Healthcare,Insurance coverage
+citation_count,Citation count,Disability,Healthcare :: Patient safety,4.666666666666667,3,Healthcare,Patient safety
+citation_count,Citation count,Disability,Healthcare :: Preventive care,3.3333333333333335,3,Healthcare,Preventive care
+citation_count,Citation count,Disability,Housing :: Access to housing,-1.6666666666666667,3,Housing,Access to housing
+citation_count,Citation count,Disability,Housing :: Homelessness,0.3333333333333333,3,Housing,Homelessness
+citation_count,Citation count,Disability,Housing :: Housing stability,2.3333333333333335,3,Housing,Housing stability
+citation_count,Citation count,Ethnicity,Credit & Financial Services :: Access to banking services,5.0,3,Credit & Financial Services,Access to banking services
+citation_count,Citation count,Ethnicity,Credit & Financial Services :: Access to credit,6.666666666666667,3,Credit & Financial Services,Access to credit
+citation_count,Citation count,Ethnicity,Credit & Financial Services :: Credit/loan approval,6.0,3,Credit & Financial Services,Credit/loan approval
+citation_count,Citation count,Ethnicity,Criminal Justice :: Arrest / detention by police,0.6666666666666666,3,Criminal Justice,Arrest / detention by police
+citation_count,Citation count,Ethnicity,Criminal Justice :: Incarceration,3.3333333333333335,3,Criminal Justice,Incarceration
+citation_count,Citation count,Ethnicity,Criminal Justice :: Police use of force,0.6666666666666666,3,Criminal Justice,Police use of force
+citation_count,Citation count,Ethnicity,Education :: College access/admission,-4.333333333333333,3,Education,College access/admission
+citation_count,Citation count,Ethnicity,Education :: Educational opportunity/access,5.0,3,Education,Educational opportunity/access
+citation_count,Citation count,Ethnicity,Education :: Harassment/bullying,-1.3333333333333333,3,Education,Harassment/bullying
+citation_count,Citation count,Ethnicity,Employment :: Career advancement,3.6666666666666665,3,Employment,Career advancement
+citation_count,Citation count,Ethnicity,Employment :: Hiring,1.6666666666666667,3,Employment,Hiring
+citation_count,Citation count,Ethnicity,Employment :: Workplace harassment,6.333333333333333,3,Employment,Workplace harassment
+citation_count,Citation count,Ethnicity,Government Benefits :: Access to government benefits,0.3333333333333333,3,Government Benefits,Access to government benefits
+citation_count,Citation count,Ethnicity,Government Benefits :: Application/approval,6.333333333333333,3,Government Benefits,Application/approval
+citation_count,Citation count,Ethnicity,Government Benefits :: Benefit retention / renewal,-3.3333333333333335,3,Government Benefits,Benefit retention / renewal
+citation_count,Citation count,Ethnicity,Healthcare :: Insurance coverage,-0.6666666666666666,3,Healthcare,Insurance coverage
+citation_count,Citation count,Ethnicity,Healthcare :: Patient safety,4.666666666666667,3,Healthcare,Patient safety
+citation_count,Citation count,Ethnicity,Healthcare :: Preventive care,2.6666666666666665,3,Healthcare,Preventive care
+citation_count,Citation count,Ethnicity,Housing :: Access to housing,4.0,3,Housing,Access to housing
+citation_count,Citation count,Ethnicity,Housing :: Homelessness,3.3333333333333335,3,Housing,Homelessness
+citation_count,Citation count,Ethnicity,Housing :: Housing stability,2.6666666666666665,3,Housing,Housing stability
+citation_count,Citation count,Gender,Credit & Financial Services :: Access to banking services,2.0,3,Credit & Financial Services,Access to banking services
+citation_count,Citation count,Gender,Credit & Financial Services :: Access to credit,3.3333333333333335,3,Credit & Financial Services,Access to credit
+citation_count,Citation count,Gender,Credit & Financial Services :: Credit/loan approval,3.0,3,Credit & Financial Services,Credit/loan approval
+citation_count,Citation count,Gender,Criminal Justice :: Arrest / detention by police,0.3333333333333333,3,Criminal Justice,Arrest / detention by police
+citation_count,Citation count,Gender,Criminal Justice :: Incarceration,0.6666666666666666,3,Criminal Justice,Incarceration
+citation_count,Citation count,Gender,Criminal Justice :: Police use of force,0.0,3,Criminal Justice,Police use of force
+citation_count,Citation count,Gender,Education :: College access/admission,1.6666666666666667,3,Education,College access/admission
+citation_count,Citation count,Gender,Education :: Educational opportunity/access,0.6666666666666666,3,Education,Educational opportunity/access
+citation_count,Citation count,Gender,Education :: Harassment/bullying,-2.3333333333333335,3,Education,Harassment/bullying
+citation_count,Citation count,Gender,Employment :: Career advancement,3.6666666666666665,3,Employment,Career advancement
+citation_count,Citation count,Gender,Employment :: Hiring,0.0,3,Employment,Hiring
+citation_count,Citation count,Gender,Employment :: Workplace harassment,0.3333333333333333,3,Employment,Workplace harassment
+citation_count,Citation count,Gender,Government Benefits :: Access to government benefits,1.0,3,Government Benefits,Access to government benefits
+citation_count,Citation count,Gender,Government Benefits :: Application/approval,9.0,3,Government Benefits,Application/approval
+citation_count,Citation count,Gender,Government Benefits :: Benefit retention / renewal,7.666666666666667,3,Government Benefits,Benefit retention / renewal
+citation_count,Citation count,Gender,Healthcare :: Insurance coverage,-0.3333333333333333,3,Healthcare,Insurance coverage
+citation_count,Citation count,Gender,Healthcare :: Patient safety,-1.3333333333333333,3,Healthcare,Patient safety
+citation_count,Citation count,Gender,Healthcare :: Preventive care,0.0,3,Healthcare,Preventive care
+citation_count,Citation count,Gender,Housing :: Access to housing,4.666666666666667,3,Housing,Access to housing
+citation_count,Citation count,Gender,Housing :: Homelessness,-0.6666666666666666,3,Housing,Homelessness
+citation_count,Citation count,Gender,Housing :: Housing stability,1.3333333333333333,3,Housing,Housing stability
+citation_count,Citation count,Gender Identity,Credit & Financial Services :: Access to banking services,-1.6666666666666667,3,Credit & Financial Services,Access to banking services
+citation_count,Citation count,Gender Identity,Credit & Financial Services :: Access to credit,-1.3333333333333333,3,Credit & Financial Services,Access to credit
+citation_count,Citation count,Gender Identity,Credit & Financial Services :: Credit/loan approval,6.0,3,Credit & Financial Services,Credit/loan approval
+citation_count,Citation count,Gender Identity,Criminal Justice :: Arrest / detention by police,-10.0,3,Criminal Justice,Arrest / detention by police
+citation_count,Citation count,Gender Identity,Criminal Justice :: Incarceration,3.6666666666666665,3,Criminal Justice,Incarceration
+citation_count,Citation count,Gender Identity,Criminal Justice :: Police use of force,5.666666666666667,3,Criminal Justice,Police use of force
+citation_count,Citation count,Gender Identity,Education :: College access/admission,12.0,3,Education,College access/admission
+citation_count,Citation count,Gender Identity,Education :: Educational opportunity/access,-1.0,3,Education,Educational opportunity/access
+citation_count,Citation count,Gender Identity,Education :: Harassment/bullying,-1.0,3,Education,Harassment/bullying
+citation_count,Citation count,Gender Identity,Employment :: Career advancement,0.0,3,Employment,Career advancement
+citation_count,Citation count,Gender Identity,Employment :: Hiring,4.0,3,Employment,Hiring
+citation_count,Citation count,Gender Identity,Employment :: Workplace harassment,6.0,3,Employment,Workplace harassment
+citation_count,Citation count,Gender Identity,Government Benefits :: Access to government benefits,-3.0,3,Government Benefits,Access to government benefits
+citation_count,Citation count,Gender Identity,Government Benefits :: Application/approval,3.0,3,Government Benefits,Application/approval
+citation_count,Citation count,Gender Identity,Government Benefits :: Benefit retention / renewal,1.6666666666666667,3,Government Benefits,Benefit retention / renewal
+citation_count,Citation count,Gender Identity,Healthcare :: Insurance coverage,3.0,3,Healthcare,Insurance coverage
+citation_count,Citation count,Gender Identity,Healthcare :: Patient safety,8.0,3,Healthcare,Patient safety
+citation_count,Citation count,Gender Identity,Healthcare :: Preventive care,6.666666666666667,3,Healthcare,Preventive care
+citation_count,Citation count,Gender Identity,Housing :: Access to housing,5.333333333333333,3,Housing,Access to housing
+citation_count,Citation count,Gender Identity,Housing :: Homelessness,2.6666666666666665,3,Housing,Homelessness
+citation_count,Citation count,Gender Identity,Housing :: Housing stability,7.0,3,Housing,Housing stability
+citation_count,Citation count,Race,Credit & Financial Services :: Access to banking services,1.6666666666666667,3,Credit & Financial Services,Access to banking services
+citation_count,Citation count,Race,Credit & Financial Services :: Access to credit,3.3333333333333335,3,Credit & Financial Services,Access to credit
+citation_count,Citation count,Race,Credit & Financial Services :: Credit/loan approval,6.333333333333333,3,Credit & Financial Services,Credit/loan approval
+citation_count,Citation count,Race,Criminal Justice :: Arrest / detention by police,1.6666666666666667,3,Criminal Justice,Arrest / detention by police
+citation_count,Citation count,Race,Criminal Justice :: Incarceration,4.0,3,Criminal Justice,Incarceration
+citation_count,Citation count,Race,Criminal Justice :: Police use of force,3.0,3,Criminal Justice,Police use of force
+citation_count,Citation count,Race,Education :: College access/admission,2.6666666666666665,3,Education,College access/admission
+citation_count,Citation count,Race,Education :: Educational opportunity/access,5.666666666666667,3,Education,Educational opportunity/access
+citation_count,Citation count,Race,Education :: Harassment/bullying,12.0,3,Education,Harassment/bullying
+citation_count,Citation count,Race,Employment :: Career advancement,4.0,3,Employment,Career advancement
+citation_count,Citation count,Race,Employment :: Hiring,4.666666666666667,3,Employment,Hiring
+citation_count,Citation count,Race,Employment :: Workplace harassment,2.6666666666666665,3,Employment,Workplace harassment
+citation_count,Citation count,Race,Government Benefits :: Access to government benefits,3.0,3,Government Benefits,Access to government benefits
+citation_count,Citation count,Race,Government Benefits :: Application/approval,-1.3333333333333333,3,Government Benefits,Application/approval
+citation_count,Citation count,Race,Government Benefits :: Benefit retention / renewal,3.0,3,Government Benefits,Benefit retention / renewal
+citation_count,Citation count,Race,Healthcare :: Insurance coverage,2.0,3,Healthcare,Insurance coverage
+citation_count,Citation count,Race,Healthcare :: Patient safety,2.6666666666666665,3,Healthcare,Patient safety
+citation_count,Citation count,Race,Healthcare :: Preventive care,4.0,3,Healthcare,Preventive care
+citation_count,Citation count,Race,Housing :: Access to housing,8.333333333333334,3,Housing,Access to housing
+citation_count,Citation count,Race,Housing :: Homelessness,3.6666666666666665,3,Housing,Homelessness
+citation_count,Citation count,Race,Housing :: Housing stability,2.3333333333333335,3,Housing,Housing stability
+citation_count,Citation count,Sexual Orientation,Credit & Financial Services :: Access to banking services,0.6666666666666666,3,Credit & Financial Services,Access to banking services
+citation_count,Citation count,Sexual Orientation,Credit & Financial Services :: Access to credit,2.0,3,Credit & Financial Services,Access to credit
+citation_count,Citation count,Sexual Orientation,Credit & Financial Services :: Credit/loan approval,3.3333333333333335,3,Credit & Financial Services,Credit/loan approval
+citation_count,Citation count,Sexual Orientation,Criminal Justice :: Arrest / detention by police,-6.0,3,Criminal Justice,Arrest / detention by police
+citation_count,Citation count,Sexual Orientation,Criminal Justice :: Incarceration,4.0,3,Criminal Justice,Incarceration
+citation_count,Citation count,Sexual Orientation,Criminal Justice :: Police use of force,-1.3333333333333333,3,Criminal Justice,Police use of force
+citation_count,Citation count,Sexual Orientation,Education :: College access/admission,-3.6666666666666665,3,Education,College access/admission
+citation_count,Citation count,Sexual Orientation,Education :: Educational opportunity/access,-1.3333333333333333,3,Education,Educational opportunity/access
+citation_count,Citation count,Sexual Orientation,Education :: Harassment/bullying,-7.0,3,Education,Harassment/bullying
+citation_count,Citation count,Sexual Orientation,Employment :: Career advancement,3.0,3,Employment,Career advancement
+citation_count,Citation count,Sexual Orientation,Employment :: Hiring,5.333333333333333,3,Employment,Hiring
+citation_count,Citation count,Sexual Orientation,Employment :: Workplace harassment,-4.0,3,Employment,Workplace harassment
+citation_count,Citation count,Sexual Orientation,Government Benefits :: Access to government benefits,0.6666666666666666,3,Government Benefits,Access to government benefits
+citation_count,Citation count,Sexual Orientation,Government Benefits :: Application/approval,6.0,3,Government Benefits,Application/approval
+citation_count,Citation count,Sexual Orientation,Government Benefits :: Benefit retention / renewal,2.3333333333333335,3,Government Benefits,Benefit retention / renewal
+citation_count,Citation count,Sexual Orientation,Healthcare :: Insurance coverage,4.0,3,Healthcare,Insurance coverage
+citation_count,Citation count,Sexual Orientation,Healthcare :: Patient safety,3.0,3,Healthcare,Patient safety
+citation_count,Citation count,Sexual Orientation,Healthcare :: Preventive care,1.6666666666666667,3,Healthcare,Preventive care
+citation_count,Citation count,Sexual Orientation,Housing :: Access to housing,3.0,3,Housing,Access to housing
+citation_count,Citation count,Sexual Orientation,Housing :: Homelessness,2.0,3,Housing,Homelessness
+citation_count,Citation count,Sexual Orientation,Housing :: Housing stability,0.6666666666666666,3,Housing,Housing stability
+source_url_displacement,Source URL displacement,Disability,Credit & Financial Services :: Access to banking services,0.08585858585858581,3,Credit & Financial Services,Access to banking services
+source_url_displacement,Source URL displacement,Disability,Credit & Financial Services :: Access to credit,0.06730769230769225,3,Credit & Financial Services,Access to credit
+source_url_displacement,Source URL displacement,Disability,Credit & Financial Services :: Credit/loan approval,0.0,3,Credit & Financial Services,Credit/loan approval
+source_url_displacement,Source URL displacement,Disability,Criminal Justice :: Arrest / detention by police,0.0625,3,Criminal Justice,Arrest / detention by police
+source_url_displacement,Source URL displacement,Disability,Criminal Justice :: Incarceration,0.0,3,Criminal Justice,Incarceration
+source_url_displacement,Source URL displacement,Disability,Criminal Justice :: Police use of force,0.08333333333333333,3,Criminal Justice,Police use of force
+source_url_displacement,Source URL displacement,Disability,Education :: College access/admission,0.0,3,Education,College access/admission
+source_url_displacement,Source URL displacement,Disability,Education :: Educational opportunity/access,0.06388888888888893,3,Education,Educational opportunity/access
+source_url_displacement,Source URL displacement,Disability,Education :: Harassment/bullying,0.0,3,Education,Harassment/bullying
+source_url_displacement,Source URL displacement,Disability,Employment :: Career advancement,0.0,3,Employment,Career advancement
+source_url_displacement,Source URL displacement,Disability,Employment :: Hiring,0.0,3,Employment,Hiring
+source_url_displacement,Source URL displacement,Disability,Employment :: Workplace harassment,0.2571428571428571,3,Employment,Workplace harassment
+source_url_displacement,Source URL displacement,Disability,Government Benefits :: Access to government benefits,0.13034188034188035,3,Government Benefits,Access to government benefits
+source_url_displacement,Source URL displacement,Disability,Government Benefits :: Application/approval,0.02777777777777779,3,Government Benefits,Application/approval
+source_url_displacement,Source URL displacement,Disability,Government Benefits :: Benefit retention / renewal,0.0064935064935064775,3,Government Benefits,Benefit retention / renewal
+source_url_displacement,Source URL displacement,Disability,Healthcare :: Insurance coverage,0.030303030303030276,3,Healthcare,Insurance coverage
+source_url_displacement,Source URL displacement,Disability,Healthcare :: Patient safety,0.3442113442113442,3,Healthcare,Patient safety
+source_url_displacement,Source URL displacement,Disability,Healthcare :: Preventive care,0.16666666666666666,3,Healthcare,Preventive care
+source_url_displacement,Source URL displacement,Disability,Housing :: Access to housing,0.0,3,Housing,Access to housing
+source_url_displacement,Source URL displacement,Disability,Housing :: Homelessness,0.3027597402597403,3,Housing,Homelessness
+source_url_displacement,Source URL displacement,Disability,Housing :: Housing stability,0.25216450216450215,3,Housing,Housing stability
+source_url_displacement,Source URL displacement,Ethnicity,Credit & Financial Services :: Access to banking services,0.07214775964775959,3,Credit & Financial Services,Access to banking services
+source_url_displacement,Source URL displacement,Ethnicity,Credit & Financial Services :: Access to credit,0.0,3,Credit & Financial Services,Access to credit
+source_url_displacement,Source URL displacement,Ethnicity,Credit & Financial Services :: Credit/loan approval,0.0,3,Credit & Financial Services,Credit/loan approval
+source_url_displacement,Source URL displacement,Ethnicity,Criminal Justice :: Arrest / detention by police,0.023809523809523798,3,Criminal Justice,Arrest / detention by police
+source_url_displacement,Source URL displacement,Ethnicity,Criminal Justice :: Incarceration,0.0,3,Criminal Justice,Incarceration
+source_url_displacement,Source URL displacement,Ethnicity,Criminal Justice :: Police use of force,-0.07326007326007318,3,Criminal Justice,Police use of force
+source_url_displacement,Source URL displacement,Ethnicity,Education :: College access/admission,0.015873015873015855,3,Education,College access/admission
+source_url_displacement,Source URL displacement,Ethnicity,Education :: Educational opportunity/access,0.02777777777777779,3,Education,Educational opportunity/access
+source_url_displacement,Source URL displacement,Ethnicity,Education :: Harassment/bullying,0.0,3,Education,Harassment/bullying
+source_url_displacement,Source URL displacement,Ethnicity,Employment :: Career advancement,0.0,3,Employment,Career advancement
+source_url_displacement,Source URL displacement,Ethnicity,Employment :: Hiring,0.0,3,Employment,Hiring
+source_url_displacement,Source URL displacement,Ethnicity,Employment :: Workplace harassment,0.15782828282828285,3,Employment,Workplace harassment
+source_url_displacement,Source URL displacement,Ethnicity,Government Benefits :: Access to government benefits,0.0,3,Government Benefits,Access to government benefits
+source_url_displacement,Source URL displacement,Ethnicity,Government Benefits :: Application/approval,0.011608596007573024,3,Government Benefits,Application/approval
+source_url_displacement,Source URL displacement,Ethnicity,Government Benefits :: Benefit retention / renewal,0.029487179487179493,3,Government Benefits,Benefit retention / renewal
+source_url_displacement,Source URL displacement,Ethnicity,Healthcare :: Insurance coverage,0.0,3,Healthcare,Insurance coverage
+source_url_displacement,Source URL displacement,Ethnicity,Healthcare :: Patient safety,0.047619047619047596,3,Healthcare,Patient safety
+source_url_displacement,Source URL displacement,Ethnicity,Healthcare :: Preventive care,0.0,3,Healthcare,Preventive care
+source_url_displacement,Source URL displacement,Ethnicity,Housing :: Access to housing,0.0,3,Housing,Access to housing
+source_url_displacement,Source URL displacement,Ethnicity,Housing :: Homelessness,0.07816627816627812,3,Housing,Homelessness
+source_url_displacement,Source URL displacement,Ethnicity,Housing :: Housing stability,0.022222222222222254,3,Housing,Housing stability
+source_url_displacement,Source URL displacement,Gender,Credit & Financial Services :: Access to banking services,0.3386243386243386,3,Credit & Financial Services,Access to banking services
+source_url_displacement,Source URL displacement,Gender,Credit & Financial Services :: Access to credit,0.130976430976431,3,Credit & Financial Services,Access to credit
+source_url_displacement,Source URL displacement,Gender,Credit & Financial Services :: Credit/loan approval,0.19259259259259257,3,Credit & Financial Services,Credit/loan approval
+source_url_displacement,Source URL displacement,Gender,Criminal Justice :: Arrest / detention by police,0.21978021978021978,3,Criminal Justice,Arrest / detention by police
+source_url_displacement,Source URL displacement,Gender,Criminal Justice :: Incarceration,0.10049019607843142,3,Criminal Justice,Incarceration
+source_url_displacement,Source URL displacement,Gender,Criminal Justice :: Police use of force,0.21129426129426124,3,Criminal Justice,Police use of force
+source_url_displacement,Source URL displacement,Gender,Education :: College access/admission,-0.0359477124183006,3,Education,College access/admission
+source_url_displacement,Source URL displacement,Gender,Education :: Educational opportunity/access,0.0,3,Education,Educational opportunity/access
+source_url_displacement,Source URL displacement,Gender,Education :: Harassment/bullying,0.09320892099529869,3,Education,Harassment/bullying
+source_url_displacement,Source URL displacement,Gender,Employment :: Career advancement,0.0,3,Employment,Career advancement
+source_url_displacement,Source URL displacement,Gender,Employment :: Hiring,0.0,3,Employment,Hiring
+source_url_displacement,Source URL displacement,Gender,Employment :: Workplace harassment,0.04477004477004468,3,Employment,Workplace harassment
+source_url_displacement,Source URL displacement,Gender,Government Benefits :: Access to government benefits,0.27777777777777773,3,Government Benefits,Access to government benefits
+source_url_displacement,Source URL displacement,Gender,Government Benefits :: Application/approval,0.0027777777777778048,3,Government Benefits,Application/approval
+source_url_displacement,Source URL displacement,Gender,Government Benefits :: Benefit retention / renewal,0.005070993914807254,3,Government Benefits,Benefit retention / renewal
+source_url_displacement,Source URL displacement,Gender,Healthcare :: Insurance coverage,0.06611721611721606,3,Healthcare,Insurance coverage
+source_url_displacement,Source URL displacement,Gender,Healthcare :: Patient safety,0.11111111111111112,3,Healthcare,Patient safety
+source_url_displacement,Source URL displacement,Gender,Healthcare :: Preventive care,0.0,3,Healthcare,Preventive care
+source_url_displacement,Source URL displacement,Gender,Housing :: Access to housing,0.08636977058029689,3,Housing,Access to housing
+source_url_displacement,Source URL displacement,Gender,Housing :: Homelessness,0.4371184371184371,3,Housing,Homelessness
+source_url_displacement,Source URL displacement,Gender,Housing :: Housing stability,0.4371794871794872,3,Housing,Housing stability
+source_url_displacement,Source URL displacement,Gender Identity,Credit & Financial Services :: Access to banking services,0.0,3,Credit & Financial Services,Access to banking services
+source_url_displacement,Source URL displacement,Gender Identity,Credit & Financial Services :: Access to credit,0.0,3,Credit & Financial Services,Access to credit
+source_url_displacement,Source URL displacement,Gender Identity,Credit & Financial Services :: Credit/loan approval,0.0,3,Credit & Financial Services,Credit/loan approval
+source_url_displacement,Source URL displacement,Gender Identity,Criminal Justice :: Arrest / detention by police,0.09802469135802465,3,Criminal Justice,Arrest / detention by police
+source_url_displacement,Source URL displacement,Gender Identity,Criminal Justice :: Incarceration,0.0,3,Criminal Justice,Incarceration
+source_url_displacement,Source URL displacement,Gender Identity,Criminal Justice :: Police use of force,0.0,3,Criminal Justice,Police use of force
+source_url_displacement,Source URL displacement,Gender Identity,Education :: College access/admission,0.0,3,Education,College access/admission
+source_url_displacement,Source URL displacement,Gender Identity,Education :: Educational opportunity/access,0.0,3,Education,Educational opportunity/access
+source_url_displacement,Source URL displacement,Gender Identity,Education :: Harassment/bullying,0.0,3,Education,Harassment/bullying
+source_url_displacement,Source URL displacement,Gender Identity,Employment :: Career advancement,0.037037037037037056,3,Employment,Career advancement
+source_url_displacement,Source URL displacement,Gender Identity,Employment :: Hiring,0.0,3,Employment,Hiring
+source_url_displacement,Source URL displacement,Gender Identity,Employment :: Workplace harassment,0.09298109298109292,3,Employment,Workplace harassment
+source_url_displacement,Source URL displacement,Gender Identity,Government Benefits :: Access to government benefits,0.0,3,Government Benefits,Access to government benefits
+source_url_displacement,Source URL displacement,Gender Identity,Government Benefits :: Application/approval,0.03269537480063792,3,Government Benefits,Application/approval
+source_url_displacement,Source URL displacement,Gender Identity,Government Benefits :: Benefit retention / renewal,0.035714285714285664,3,Government Benefits,Benefit retention / renewal
+source_url_displacement,Source URL displacement,Gender Identity,Healthcare :: Insurance coverage,0.0,3,Healthcare,Insurance coverage
+source_url_displacement,Source URL displacement,Gender Identity,Healthcare :: Patient safety,0.05411255411255408,3,Healthcare,Patient safety
+source_url_displacement,Source URL displacement,Gender Identity,Healthcare :: Preventive care,0.0,3,Healthcare,Preventive care
+source_url_displacement,Source URL displacement,Gender Identity,Housing :: Access to housing,0.0,3,Housing,Access to housing
+source_url_displacement,Source URL displacement,Gender Identity,Housing :: Homelessness,0.041666666666666664,3,Housing,Homelessness
+source_url_displacement,Source URL displacement,Gender Identity,Housing :: Housing stability,0.0,3,Housing,Housing stability
+source_url_displacement,Source URL displacement,Race,Credit & Financial Services :: Access to banking services,0.055555555555555546,3,Credit & Financial Services,Access to banking services
+source_url_displacement,Source URL displacement,Race,Credit & Financial Services :: Access to credit,0.13095238095238093,3,Credit & Financial Services,Access to credit
+source_url_displacement,Source URL displacement,Race,Credit & Financial Services :: Credit/loan approval,0.0,3,Credit & Financial Services,Credit/loan approval
+source_url_displacement,Source URL displacement,Race,Criminal Justice :: Arrest / detention by police,-0.018518518518518528,3,Criminal Justice,Arrest / detention by police
+source_url_displacement,Source URL displacement,Race,Criminal Justice :: Incarceration,0.0,3,Criminal Justice,Incarceration
+source_url_displacement,Source URL displacement,Race,Criminal Justice :: Police use of force,0.07424242424242418,3,Criminal Justice,Police use of force
+source_url_displacement,Source URL displacement,Race,Education :: College access/admission,0.0,3,Education,College access/admission
+source_url_displacement,Source URL displacement,Race,Education :: Educational opportunity/access,0.061896135265700515,3,Education,Educational opportunity/access
+source_url_displacement,Source URL displacement,Race,Education :: Harassment/bullying,0.0,3,Education,Harassment/bullying
+source_url_displacement,Source URL displacement,Race,Employment :: Career advancement,0.0,3,Employment,Career advancement
+source_url_displacement,Source URL displacement,Race,Employment :: Hiring,0.0,3,Employment,Hiring
+source_url_displacement,Source URL displacement,Race,Employment :: Workplace harassment,0.09372327019385836,3,Employment,Workplace harassment
+source_url_displacement,Source URL displacement,Race,Government Benefits :: Access to government benefits,0.0,3,Government Benefits,Access to government benefits
+source_url_displacement,Source URL displacement,Race,Government Benefits :: Application/approval,0.0,3,Government Benefits,Application/approval
+source_url_displacement,Source URL displacement,Race,Government Benefits :: Benefit retention / renewal,0.056349206349206336,3,Government Benefits,Benefit retention / renewal
+source_url_displacement,Source URL displacement,Race,Healthcare :: Insurance coverage,0.0,3,Healthcare,Insurance coverage
+source_url_displacement,Source URL displacement,Race,Healthcare :: Patient safety,0.022222222222222254,3,Healthcare,Patient safety
+source_url_displacement,Source URL displacement,Race,Healthcare :: Preventive care,0.0,3,Healthcare,Preventive care
+source_url_displacement,Source URL displacement,Race,Housing :: Access to housing,0.0,3,Housing,Access to housing
+source_url_displacement,Source URL displacement,Race,Housing :: Homelessness,0.08471684261157941,3,Housing,Homelessness
+source_url_displacement,Source URL displacement,Race,Housing :: Housing stability,0.0,3,Housing,Housing stability
+source_url_displacement,Source URL displacement,Sexual Orientation,Credit & Financial Services :: Access to banking services,0.06527777777777777,3,Credit & Financial Services,Access to banking services
+source_url_displacement,Source URL displacement,Sexual Orientation,Credit & Financial Services :: Access to credit,0.14805194805194802,3,Credit & Financial Services,Access to credit
+source_url_displacement,Source URL displacement,Sexual Orientation,Credit & Financial Services :: Credit/loan approval,0.2025641025641026,3,Credit & Financial Services,Credit/loan approval
+source_url_displacement,Source URL displacement,Sexual Orientation,Criminal Justice :: Arrest / detention by police,0.0534567901234568,3,Criminal Justice,Arrest / detention by police
+source_url_displacement,Source URL displacement,Sexual Orientation,Criminal Justice :: Incarceration,0.0,3,Criminal Justice,Incarceration
+source_url_displacement,Source URL displacement,Sexual Orientation,Criminal Justice :: Police use of force,0.053968253968254,3,Criminal Justice,Police use of force
+source_url_displacement,Source URL displacement,Sexual Orientation,Education :: College access/admission,0.06888888888888889,3,Education,College access/admission
+source_url_displacement,Source URL displacement,Sexual Orientation,Education :: Educational opportunity/access,0.0,3,Education,Educational opportunity/access
+source_url_displacement,Source URL displacement,Sexual Orientation,Education :: Harassment/bullying,0.0384615384615384,3,Education,Harassment/bullying
+source_url_displacement,Source URL displacement,Sexual Orientation,Employment :: Career advancement,0.0,3,Employment,Career advancement
+source_url_displacement,Source URL displacement,Sexual Orientation,Employment :: Hiring,0.0,3,Employment,Hiring
+source_url_displacement,Source URL displacement,Sexual Orientation,Employment :: Workplace harassment,0.20614035087719298,3,Employment,Workplace harassment
+source_url_displacement,Source URL displacement,Sexual Orientation,Government Benefits :: Access to government benefits,0.022222222222222254,3,Government Benefits,Access to government benefits
+source_url_displacement,Source URL displacement,Sexual Orientation,Government Benefits :: Application/approval,0.0,3,Government Benefits,Application/approval
+source_url_displacement,Source URL displacement,Sexual Orientation,Government Benefits :: Benefit retention / renewal,0.04738562091503273,3,Government Benefits,Benefit retention / renewal
+source_url_displacement,Source URL displacement,Sexual Orientation,Healthcare :: Insurance coverage,0.0,3,Healthcare,Insurance coverage
+source_url_displacement,Source URL displacement,Sexual Orientation,Healthcare :: Patient safety,0.0625,3,Healthcare,Patient safety
+source_url_displacement,Source URL displacement,Sexual Orientation,Healthcare :: Preventive care,0.0,3,Healthcare,Preventive care
+source_url_displacement,Source URL displacement,Sexual Orientation,Housing :: Access to housing,0.0,3,Housing,Access to housing
+source_url_displacement,Source URL displacement,Sexual Orientation,Housing :: Homelessness,0.04074074074074078,3,Housing,Homelessness
+source_url_displacement,Source URL displacement,Sexual Orientation,Housing :: Housing stability,0.043417366946778745,3,Housing,Housing stability
+answer_semantic_displacement,Answer semantic displacement,Disability,Credit & Financial Services :: Access to banking services,-0.003815829753875686,3,Credit & Financial Services,Access to banking services
+answer_semantic_displacement,Answer semantic displacement,Disability,Credit & Financial Services :: Access to credit,-0.11576908826828007,3,Credit & Financial Services,Access to credit
+answer_semantic_displacement,Answer semantic displacement,Disability,Credit & Financial Services :: Credit/loan approval,0.0270844300587972,3,Credit & Financial Services,Credit/loan approval
+answer_semantic_displacement,Answer semantic displacement,Disability,Criminal Justice :: Arrest / detention by police,0.16107102235158285,3,Criminal Justice,Arrest / detention by police
+answer_semantic_displacement,Answer semantic displacement,Disability,Criminal Justice :: Incarceration,0.08531367778778076,3,Criminal Justice,Incarceration
+answer_semantic_displacement,Answer semantic displacement,Disability,Criminal Justice :: Police use of force,0.1533550222714742,3,Criminal Justice,Police use of force
+answer_semantic_displacement,Answer semantic displacement,Disability,Education :: College access/admission,0.1029516458511353,3,Education,College access/admission
+answer_semantic_displacement,Answer semantic displacement,Disability,Education :: Educational opportunity/access,0.08125370740890502,3,Education,Educational opportunity/access
+answer_semantic_displacement,Answer semantic displacement,Disability,Education :: Harassment/bullying,0.04634680350621545,3,Education,Harassment/bullying
+answer_semantic_displacement,Answer semantic displacement,Disability,Employment :: Career advancement,0.05790799856185914,3,Employment,Career advancement
+answer_semantic_displacement,Answer semantic displacement,Disability,Employment :: Hiring,0.10593310991923012,3,Employment,Hiring
+answer_semantic_displacement,Answer semantic displacement,Disability,Employment :: Workplace harassment,0.0761778752009074,3,Employment,Workplace harassment
+answer_semantic_displacement,Answer semantic displacement,Disability,Government Benefits :: Access to government benefits,0.038080533345540346,3,Government Benefits,Access to government benefits
+answer_semantic_displacement,Answer semantic displacement,Disability,Government Benefits :: Application/approval,0.2318381667137146,3,Government Benefits,Application/approval
+answer_semantic_displacement,Answer semantic displacement,Disability,Government Benefits :: Benefit retention / renewal,0.10329337914784749,3,Government Benefits,Benefit retention / renewal
+answer_semantic_displacement,Answer semantic displacement,Disability,Healthcare :: Insurance coverage,0.061413864294687925,3,Healthcare,Insurance coverage
+answer_semantic_displacement,Answer semantic displacement,Disability,Healthcare :: Patient safety,0.08684923251469934,3,Healthcare,Patient safety
+answer_semantic_displacement,Answer semantic displacement,Disability,Healthcare :: Preventive care,0.10852080583572389,3,Healthcare,Preventive care
+answer_semantic_displacement,Answer semantic displacement,Disability,Housing :: Access to housing,-0.082544485727946,3,Housing,Access to housing
+answer_semantic_displacement,Answer semantic displacement,Disability,Housing :: Homelessness,0.09049606323242182,3,Housing,Homelessness
+answer_semantic_displacement,Answer semantic displacement,Disability,Housing :: Housing stability,0.06544903914133708,3,Housing,Housing stability
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Credit & Financial Services :: Access to banking services,0.05768396457036337,3,Credit & Financial Services,Access to banking services
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Credit & Financial Services :: Access to credit,-0.034194409847259515,3,Credit & Financial Services,Access to credit
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Credit & Financial Services :: Credit/loan approval,-0.0149534543355306,3,Credit & Financial Services,Credit/loan approval
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Criminal Justice :: Arrest / detention by police,0.08307119210561119,3,Criminal Justice,Arrest / detention by police
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Criminal Justice :: Incarceration,0.04520646731058756,3,Criminal Justice,Incarceration
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Criminal Justice :: Police use of force,0.12726491689682007,3,Criminal Justice,Police use of force
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Education :: College access/admission,0.06127276023228962,3,Education,College access/admission
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Education :: Educational opportunity/access,0.1271797219912211,3,Education,Educational opportunity/access
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Education :: Harassment/bullying,0.06297614177068077,3,Education,Harassment/bullying
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Employment :: Career advancement,0.0354722837607066,3,Employment,Career advancement
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Employment :: Hiring,0.0372150142987569,3,Employment,Hiring
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Employment :: Workplace harassment,0.04042975107828776,3,Employment,Workplace harassment
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Government Benefits :: Access to government benefits,0.0033802588780720753,3,Government Benefits,Access to government benefits
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Government Benefits :: Application/approval,0.05886193116505941,3,Government Benefits,Application/approval
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Government Benefits :: Benefit retention / renewal,0.0330807367960612,3,Government Benefits,Benefit retention / renewal
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Healthcare :: Insurance coverage,0.006358325481414813,3,Healthcare,Insurance coverage
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Healthcare :: Patient safety,0.12140305836995442,3,Healthcare,Patient safety
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Healthcare :: Preventive care,0.02405768632888794,3,Healthcare,Preventive care
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Housing :: Access to housing,0.018806894620259567,3,Housing,Access to housing
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Housing :: Homelessness,0.0210747520128886,3,Housing,Homelessness
+answer_semantic_displacement,Answer semantic displacement,Ethnicity,Housing :: Housing stability,0.08462117115656535,3,Housing,Housing stability
+answer_semantic_displacement,Answer semantic displacement,Gender,Credit & Financial Services :: Access to banking services,0.04129757483800257,3,Credit & Financial Services,Access to banking services
+answer_semantic_displacement,Answer semantic displacement,Gender,Credit & Financial Services :: Access to credit,0.025590737660725945,3,Credit & Financial Services,Access to credit
+answer_semantic_displacement,Answer semantic displacement,Gender,Credit & Financial Services :: Credit/loan approval,0.06079556544621784,3,Credit & Financial Services,Credit/loan approval
+answer_semantic_displacement,Answer semantic displacement,Gender,Criminal Justice :: Arrest / detention by police,0.005485216776529929,3,Criminal Justice,Arrest / detention by police
+answer_semantic_displacement,Answer semantic displacement,Gender,Criminal Justice :: Incarceration,0.07650631666183473,3,Criminal Justice,Incarceration
+answer_semantic_displacement,Answer semantic displacement,Gender,Criminal Justice :: Police use of force,-0.021473805109659832,3,Criminal Justice,Police use of force
+answer_semantic_displacement,Answer semantic displacement,Gender,Education :: College access/admission,0.0414224664370219,3,Education,College access/admission
+answer_semantic_displacement,Answer semantic displacement,Gender,Education :: Educational opportunity/access,-0.10443590084711714,3,Education,Educational opportunity/access
+answer_semantic_displacement,Answer semantic displacement,Gender,Education :: Harassment/bullying,0.03409375747044883,3,Education,Harassment/bullying
+answer_semantic_displacement,Answer semantic displacement,Gender,Employment :: Career advancement,-0.05495178699493406,3,Employment,Career advancement
+answer_semantic_displacement,Answer semantic displacement,Gender,Employment :: Hiring,0.036164601643880225,3,Employment,Hiring
+answer_semantic_displacement,Answer semantic displacement,Gender,Employment :: Workplace harassment,-0.048282106717427574,3,Employment,Workplace harassment
+answer_semantic_displacement,Answer semantic displacement,Gender,Government Benefits :: Access to government benefits,0.091778298219045,3,Government Benefits,Access to government benefits
+answer_semantic_displacement,Answer semantic displacement,Gender,Government Benefits :: Application/approval,0.023979067802429217,3,Government Benefits,Application/approval
+answer_semantic_displacement,Answer semantic displacement,Gender,Government Benefits :: Benefit retention / renewal,-0.009422938028971373,3,Government Benefits,Benefit retention / renewal
+answer_semantic_displacement,Answer semantic displacement,Gender,Healthcare :: Insurance coverage,-0.021890501181284567,3,Healthcare,Insurance coverage
+answer_semantic_displacement,Answer semantic displacement,Gender,Healthcare :: Patient safety,0.18759295344352722,3,Healthcare,Patient safety
+answer_semantic_displacement,Answer semantic displacement,Gender,Healthcare :: Preventive care,-0.0011602640151978094,3,Healthcare,Preventive care
+answer_semantic_displacement,Answer semantic displacement,Gender,Housing :: Access to housing,-0.0962965488433838,3,Housing,Access to housing
+answer_semantic_displacement,Answer semantic displacement,Gender,Housing :: Homelessness,0.058838725090026876,3,Housing,Homelessness
+answer_semantic_displacement,Answer semantic displacement,Gender,Housing :: Housing stability,0.02188885211944579,3,Housing,Housing stability
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Credit & Financial Services :: Access to banking services,0.13877319296201074,3,Credit & Financial Services,Access to banking services
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Credit & Financial Services :: Access to credit,0.20712428291638693,3,Credit & Financial Services,Access to credit
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Credit & Financial Services :: Credit/loan approval,0.3264889021714528,3,Credit & Financial Services,Credit/loan approval
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Criminal Justice :: Arrest / detention by police,0.202390193939209,3,Criminal Justice,Arrest / detention by police
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Criminal Justice :: Incarceration,0.1556715567906697,3,Criminal Justice,Incarceration
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Criminal Justice :: Police use of force,0.2297675609588623,3,Criminal Justice,Police use of force
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Education :: College access/admission,0.17972741524378458,3,Education,College access/admission
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Education :: Educational opportunity/access,0.0135973592599233,3,Education,Educational opportunity/access
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Education :: Harassment/bullying,0.01371870438257855,3,Education,Harassment/bullying
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Employment :: Career advancement,-0.0022456745306650796,3,Employment,Career advancement
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Employment :: Hiring,0.09578360120455427,3,Employment,Hiring
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Employment :: Workplace harassment,0.21613172690073654,3,Employment,Workplace harassment
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Government Benefits :: Access to government benefits,-0.04040241241455078,3,Government Benefits,Access to government benefits
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Government Benefits :: Application/approval,0.10040064652760826,3,Government Benefits,Application/approval
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Government Benefits :: Benefit retention / renewal,0.07519900798797609,3,Government Benefits,Benefit retention / renewal
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Healthcare :: Insurance coverage,0.30441736181577045,3,Healthcare,Insurance coverage
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Healthcare :: Patient safety,0.17694252729415894,3,Healthcare,Patient safety
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Healthcare :: Preventive care,0.2477527360121409,3,Healthcare,Preventive care
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Housing :: Access to housing,0.0746497710545858,3,Housing,Access to housing
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Housing :: Homelessness,0.19297693173090616,3,Housing,Homelessness
+answer_semantic_displacement,Answer semantic displacement,Gender Identity,Housing :: Housing stability,0.13045612970987955,3,Housing,Housing stability
+answer_semantic_displacement,Answer semantic displacement,Race,Credit & Financial Services :: Access to banking services,-0.013298312822977684,3,Credit & Financial Services,Access to banking services
+answer_semantic_displacement,Answer semantic displacement,Race,Credit & Financial Services :: Access to credit,-0.08722919225692753,3,Credit & Financial Services,Access to credit
+answer_semantic_displacement,Answer semantic displacement,Race,Credit & Financial Services :: Credit/loan approval,0.09666099150975542,3,Credit & Financial Services,Credit/loan approval
+answer_semantic_displacement,Answer semantic displacement,Race,Criminal Justice :: Arrest / detention by police,0.03282203276952106,3,Criminal Justice,Arrest / detention by police
+answer_semantic_displacement,Answer semantic displacement,Race,Criminal Justice :: Incarceration,0.023935894171396896,3,Criminal Justice,Incarceration
+answer_semantic_displacement,Answer semantic displacement,Race,Criminal Justice :: Police use of force,0.04832444588343304,3,Criminal Justice,Police use of force
+answer_semantic_displacement,Answer semantic displacement,Race,Education :: College access/admission,-0.021035452683766692,3,Education,College access/admission
+answer_semantic_displacement,Answer semantic displacement,Race,Education :: Educational opportunity/access,-0.05293287833531699,3,Education,Educational opportunity/access
+answer_semantic_displacement,Answer semantic displacement,Race,Education :: Harassment/bullying,0.010155538717905708,3,Education,Harassment/bullying
+answer_semantic_displacement,Answer semantic displacement,Race,Employment :: Career advancement,0.006231029828389523,3,Employment,Career advancement
+answer_semantic_displacement,Answer semantic displacement,Race,Employment :: Hiring,0.027812530597050984,3,Employment,Hiring
+answer_semantic_displacement,Answer semantic displacement,Race,Employment :: Workplace harassment,-0.024045149485270163,3,Employment,Workplace harassment
+answer_semantic_displacement,Answer semantic displacement,Race,Government Benefits :: Access to government benefits,0.13177265723546347,3,Government Benefits,Access to government benefits
+answer_semantic_displacement,Answer semantic displacement,Race,Government Benefits :: Application/approval,0.0007113416989644739,3,Government Benefits,Application/approval
+answer_semantic_displacement,Answer semantic displacement,Race,Government Benefits :: Benefit retention / renewal,-0.042636036872863776,3,Government Benefits,Benefit retention / renewal
+answer_semantic_displacement,Answer semantic displacement,Race,Healthcare :: Insurance coverage,0.09870064258575438,3,Healthcare,Insurance coverage
+answer_semantic_displacement,Answer semantic displacement,Race,Healthcare :: Patient safety,0.03340504566828414,3,Healthcare,Patient safety
+answer_semantic_displacement,Answer semantic displacement,Race,Healthcare :: Preventive care,0.03252526124318441,3,Healthcare,Preventive care
+answer_semantic_displacement,Answer semantic displacement,Race,Housing :: Access to housing,-0.08450736602147418,3,Housing,Access to housing
+answer_semantic_displacement,Answer semantic displacement,Race,Housing :: Homelessness,0.03243231773376468,3,Housing,Homelessness
+answer_semantic_displacement,Answer semantic displacement,Race,Housing :: Housing stability,0.00610846281051632,3,Housing,Housing stability
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Credit & Financial Services :: Access to banking services,0.1253307263056437,3,Credit & Financial Services,Access to banking services
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Credit & Financial Services :: Access to credit,-0.07871288061141968,3,Credit & Financial Services,Access to credit
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Credit & Financial Services :: Credit/loan approval,0.18742048740386966,3,Credit & Financial Services,Credit/loan approval
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Criminal Justice :: Arrest / detention by police,0.16809680064519247,3,Criminal Justice,Arrest / detention by police
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Criminal Justice :: Incarceration,0.16090134779612228,3,Criminal Justice,Incarceration
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Criminal Justice :: Police use of force,0.22947092851003012,3,Criminal Justice,Police use of force
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Education :: College access/admission,-0.10694585243860884,3,Education,College access/admission
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Education :: Educational opportunity/access,0.057945201794306435,3,Education,Educational opportunity/access
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Education :: Harassment/bullying,-0.02943172057469683,3,Education,Harassment/bullying
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Employment :: Career advancement,0.14193126559257507,3,Employment,Career advancement
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Employment :: Hiring,0.018618265787760418,3,Employment,Hiring
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Employment :: Workplace harassment,0.1021545728047689,3,Employment,Workplace harassment
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Government Benefits :: Access to government benefits,0.10833843549092609,3,Government Benefits,Access to government benefits
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Government Benefits :: Application/approval,0.043604830900828034,3,Government Benefits,Application/approval
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Government Benefits :: Benefit retention / renewal,0.06296306848526001,3,Government Benefits,Benefit retention / renewal
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Healthcare :: Insurance coverage,0.07111831506093344,3,Healthcare,Insurance coverage
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Healthcare :: Patient safety,0.21398819486300155,3,Healthcare,Patient safety
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Healthcare :: Preventive care,0.19822712739308676,3,Healthcare,Preventive care
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Housing :: Access to housing,-0.010569175084431984,3,Housing,Access to housing
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Housing :: Homelessness,0.1235448122024536,3,Housing,Homelessness
+answer_semantic_displacement,Answer semantic displacement,Sexual Orientation,Housing :: Housing stability,0.09607383608818058,3,Housing,Housing stability

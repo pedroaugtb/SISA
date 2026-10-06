@@ -1,0 +1,6 @@
+stage,n_rows,n_locations
+semantic_all,756,3
+semantic_explicit,756,3
+location_dimension_outcome_pairs_per_representation,378,3
+pooled_dimension_outcome_pairs_per_representation,126,3
+pooled_source_answer_conditions,252,3

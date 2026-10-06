@@ -1,0 +1,21 @@
+{
+  "created_at_utc": "2026-10-05T19:08:17.529537+00:00",
+  "model": "BAAI/bge-large-en-v1.5@d4aa6901d3a41ba39fb536a557fa166f842b0e09",
+  "model_slug": "bge-large-en-v1.5",
+  "query_prefix": "Represent this sentence for searching relevant passages: ",
+  "device": "cuda",
+  "batch_size": 16,
+  "locations": [
+    "dallas",
+    "ny",
+    "la"
+  ],
+  "source_chunk_tokens": 112,
+  "source_chunk_overlap": 40,
+  "aio_chunk_tokens": 96,
+  "aio_chunk_overlap": 24,
+  "label_normalization": "same as primary pipeline",
+  "multilingual_responses_excluded": false,
+  "primary_results_root": "./results",
+  "alternative_results_root": "./encoder_sensitivity_results/bge-large-en-v1.5/raw_results"
+}

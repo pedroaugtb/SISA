@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Generated validation and reproduction outputs
+annotations/**/google_aio_collection/consistency_report.csv
+annotations/**/google_aio_collection/consistency_issues.csv
+reproduced_results/
+reproduced_outputs/
+
+# Re-fetched third-party pages are intentionally not versioned
+annotations/**/source_corpus/raw/
+annotations/**/source_corpus/text/
+annotations/**/source_corpus/metadata/
+annotations/**/source_corpus/manifest.csv
+annotations/**/source_corpus/corpus.jsonl
+annotations/**/source_corpus/url_usage_enriched.csv
+
+# Model caches
+.cache/
+huggingface/

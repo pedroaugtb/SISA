@@ -1,0 +1,17 @@
+{
+  "metric_x": "url_jaccard_distance",
+  "metric_y": "dense_distance_subject_normalized",
+  "blocking_variable": "outcome_id",
+  "full_sample_r": 0.4010567820206754,
+  "full_sample_ci": [
+    0.28202249267446655,
+    0.5066416635720579
+  ],
+  "leave_one_location_out_min_r": 0.32909841078603047,
+  "leave_one_location_out_max_r": 0.4827106672847078,
+  "positive_estimates": 3,
+  "ci_excludes_zero": 3,
+  "n_specifications": 3,
+  "n_permutations": 20000,
+  "n_bootstrap": 5000
+}

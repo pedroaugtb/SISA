@@ -1,0 +1,201 @@
+alternative,unit,dimension,effect_primary,effect_alternative,same_direction,location,domain,outcome,outcome_id
+smaller,pooled_dimension,Disability,0.00765480026602746,0.006613344635085134,True,,,,
+smaller,pooled_dimension,Ethnicity,-0.0013631718952524423,-0.01258005669229052,True,,,,
+smaller,pooled_dimension,Gender,-0.04191144671338981,-0.02604808508307981,True,,,,
+smaller,pooled_dimension,Gender Identity,0.02337708110733043,0.018325071671715248,True,,,,
+smaller,pooled_dimension,Race,0.04093831104076204,0.03586731756837719,True,,,,
+smaller,pooled_dimension,Sexual Orientation,0.09542301477273242,0.08580369530346256,True,,,,
+smaller,location_dimension,Disability,0.005765127627149462,0.0034680033960039678,True,dallas,,,
+smaller,location_dimension,Ethnicity,-0.010025111002986944,-0.003995207621126785,True,dallas,,,
+smaller,location_dimension,Gender,-0.03860203676201679,-0.011157598870771909,True,dallas,,,
+smaller,location_dimension,Gender Identity,0.016547421716563163,0.023677819982126088,True,dallas,,,
+smaller,location_dimension,Race,0.04876607477113054,0.04232686547138703,True,dallas,,,
+smaller,location_dimension,Sexual Orientation,0.08973081691827609,0.07909897311683343,True,dallas,,,
+smaller,location_dimension,Disability,0.032084201560133994,0.03917089224098221,True,la,,,
+smaller,location_dimension,Ethnicity,-0.00597218048004879,-0.022564823688968783,True,la,,,
+smaller,location_dimension,Gender,-0.07051512950942629,-0.056408456578141176,True,la,,,
+smaller,location_dimension,Gender Identity,0.02737199669792536,0.0037584079163414997,True,la,,,
+smaller,location_dimension,Race,0.011491996930941698,0.0071719112850370985,True,la,,,
+smaller,location_dimension,Sexual Orientation,0.14856946480770908,0.1367173470556736,True,la,,,
+smaller,location_dimension,Disability,0.001678681420901477,-0.013677895400259247,False,ny,,,
+smaller,location_dimension,Ethnicity,0.023358306517967803,0.012065956302178216,True,ny,,,
+smaller,location_dimension,Gender,-0.020073206446000514,-0.0078086064472084995,True,ny,,,
+smaller,location_dimension,Gender Identity,0.028671886391785688,0.016854128930844387,True,ny,,,
+smaller,location_dimension,Race,0.04677867121714964,0.0489173190896688,True,ny,,,
+smaller,location_dimension,Sexual Orientation,0.09786111518010279,0.09162799987871154,True,ny,,,
+smaller,dimension_outcome,Disability,-0.0758187472820282,-0.07160531282424931,True,,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit
+smaller,dimension_outcome,Disability,0.022451901435852073,-0.01163483858108516,False,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+smaller,dimension_outcome,Disability,0.047507809741156426,0.06086240354038419,True,,Criminal Justice,Incarceration,Criminal Justice :: Incarceration
+smaller,dimension_outcome,Disability,0.04841742558138712,0.06717089350734434,True,,Education,Educational opportunity/access,Education :: Educational opportunity/access
+smaller,dimension_outcome,Disability,0.026911105428423232,0.06872781472546718,True,,Education,Harassment/bullying,Education :: Harassment/bullying
+smaller,dimension_outcome,Disability,0.02360562064817978,0.005153626877637152,True,,Employment,Hiring,Employment :: Hiring
+smaller,dimension_outcome,Disability,0.02545986998648871,0.005097061490255646,True,,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits
+smaller,dimension_outcome,Disability,0.06586053328854702,0.05924377058233532,True,,Government Benefits,Application/approval,Government Benefits :: Application/approval
+smaller,dimension_outcome,Disability,-0.016438007354736328,-0.038659676909446716,True,,Healthcare,Insurance coverage,Healthcare :: Insurance coverage
+smaller,dimension_outcome,Disability,-0.0441964715719223,-0.027315636475880978,True,,Housing,Access to housing,Housing :: Access to housing
+smaller,dimension_outcome,Disability,0.011183837127117865,0.005943611216923587,True,,Housing,Homelessness,Housing :: Homelessness
+smaller,dimension_outcome,Disability,-0.043087273836135864,-0.043623581528663635,True,,Housing,Housing stability,Housing :: Housing stability
+smaller,dimension_outcome,Ethnicity,-0.07855034669240324,-0.09340047438939414,True,,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services
+smaller,dimension_outcome,Ethnicity,0.03503318660789064,0.03918617996904583,True,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+smaller,dimension_outcome,Ethnicity,0.009717210133870391,-0.007184379796187079,False,,Criminal Justice,Incarceration,Criminal Justice :: Incarceration
+smaller,dimension_outcome,Ethnicity,-0.02058061075297901,-0.010161620822436102,True,,Education,College access/admission,Education :: College access/admission
+smaller,dimension_outcome,Ethnicity,0.043056702613830544,0.025555014610290527,True,,Education,Educational opportunity/access,Education :: Educational opportunity/access
+smaller,dimension_outcome,Ethnicity,0.053976488113403276,0.010631223519643185,True,,Employment,Hiring,Employment :: Hiring
+smaller,dimension_outcome,Ethnicity,-0.06791436672210693,-0.03866673367364071,True,,Employment,Workplace harassment,Employment :: Workplace harassment
+smaller,dimension_outcome,Ethnicity,-0.0005497286717096594,0.026049375534057617,False,,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits
+smaller,dimension_outcome,Ethnicity,0.06194655001163485,0.011687871813774064,True,,Healthcare,Insurance coverage,Healthcare :: Insurance coverage
+smaller,dimension_outcome,Ethnicity,-0.014926870663960812,-0.0745013952255249,True,,Healthcare,Patient safety,Healthcare :: Patient safety
+smaller,dimension_outcome,Ethnicity,-0.03620310482524691,-0.027575685154824003,True,,Housing,Homelessness,Housing :: Homelessness
+smaller,dimension_outcome,Gender,0.02663708155353861,0.035133516788482644,True,,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit
+smaller,dimension_outcome,Gender,-0.03132929825593552,-0.00019489505461286102,True,,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval
+smaller,dimension_outcome,Gender,-0.08403572837511697,-0.06681915720303855,True,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+smaller,dimension_outcome,Gender,-0.06590071817239124,-0.025390653915348504,True,,Criminal Justice,Incarceration,Criminal Justice :: Incarceration
+smaller,dimension_outcome,Gender,-0.05061111847559607,-0.03966607650121057,True,,Education,College access/admission,Education :: College access/admission
+smaller,dimension_outcome,Gender,-0.01050456364949548,-0.018941879272460938,True,,Education,Harassment/bullying,Education :: Harassment/bullying
+smaller,dimension_outcome,Gender,-0.10269668698310852,-0.0802769114573797,True,,Employment,Hiring,Employment :: Hiring
+smaller,dimension_outcome,Gender,-0.08540958166122437,-0.05144582192103064,True,,Employment,Workplace harassment,Employment :: Workplace harassment
+smaller,dimension_outcome,Gender,-0.03062175214290619,0.036132559180259705,False,,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits
+smaller,dimension_outcome,Gender,-0.03547322750091553,-0.04289883126815164,True,,Healthcare,Insurance coverage,Healthcare :: Insurance coverage
+smaller,dimension_outcome,Gender,-0.06904198726018274,-0.032259220878283146,True,,Healthcare,Patient safety,Healthcare :: Patient safety
+smaller,dimension_outcome,Gender,0.08221271634101868,0.07251689334710443,True,,Healthcare,Preventive care,Healthcare :: Preventive care
+smaller,dimension_outcome,Gender,-0.09960328042507172,-0.13613521754741664,True,,Housing,Access to housing,Housing :: Access to housing
+smaller,dimension_outcome,Gender,-0.03038210898007036,-0.014427495460030896,True,,Housing,Homelessness,Housing :: Homelessness
+smaller,dimension_outcome,Gender Identity,0.04119485219319663,0.02732476923200818,True,,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services
+smaller,dimension_outcome,Gender Identity,0.07767135898272198,0.035788858930269896,True,,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit
+smaller,dimension_outcome,Gender Identity,-0.013122643743242568,0.0007418457950864044,False,,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval
+smaller,dimension_outcome,Gender Identity,0.07003154754638674,0.023041462898254372,True,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+smaller,dimension_outcome,Gender Identity,0.013867503404617287,0.026701895892620064,True,,Education,Educational opportunity/access,Education :: Educational opportunity/access
+smaller,dimension_outcome,Gender Identity,-0.06431396057745942,-0.06650200248581678,True,,Education,Harassment/bullying,Education :: Harassment/bullying
+smaller,dimension_outcome,Gender Identity,0.01338878037437563,0.035782897283160475,True,,Employment,Career advancement,Employment :: Career advancement
+smaller,dimension_outcome,Gender Identity,0.06360748708248143,0.03888655900955196,True,,Employment,Hiring,Employment :: Hiring
+smaller,dimension_outcome,Gender Identity,-0.00296087265014644,-0.027696605523427342,True,,Employment,Workplace harassment,Employment :: Workplace harassment
+smaller,dimension_outcome,Gender Identity,-0.021449426147672906,-0.03294513093100656,True,,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits
+smaller,dimension_outcome,Gender Identity,0.01645229709526852,0.041570874965853155,True,,Government Benefits,Application/approval,Government Benefits :: Application/approval
+smaller,dimension_outcome,Gender Identity,0.043038408458232924,0.07372994422912593,True,,Housing,Access to housing,Housing :: Access to housing
+smaller,dimension_outcome,Gender Identity,0.06649672237653581,0.06180056243661847,True,,Housing,Homelessness,Housing :: Homelessness
+smaller,dimension_outcome,Race,0.06524125983317691,0.05963939179976785,True,,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services
+smaller,dimension_outcome,Race,0.05765768289566042,0.0768146395683289,True,,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit
+smaller,dimension_outcome,Race,0.004439236058129237,0.002103751235537965,True,,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval
+smaller,dimension_outcome,Race,0.08142206250202089,0.07374869287014008,True,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+smaller,dimension_outcome,Race,0.014384210109710693,0.006147563457489014,True,,Criminal Justice,Incarceration,Criminal Justice :: Incarceration
+smaller,dimension_outcome,Race,0.024722503291236042,-0.006540901131100174,False,,Education,College access/admission,Education :: College access/admission
+smaller,dimension_outcome,Race,-0.009783157556819022,0.011031436610531483,False,,Education,Educational opportunity/access,Education :: Educational opportunity/access
+smaller,dimension_outcome,Race,-0.0042831043402353774,-0.023395671447118183,True,,Education,Harassment/bullying,Education :: Harassment/bullying
+smaller,dimension_outcome,Race,0.018251598519938295,0.044819080332914984,True,,Employment,Hiring,Employment :: Hiring
+smaller,dimension_outcome,Race,0.10460187991460168,0.06308797995249427,True,,Healthcare,Preventive care,Healthcare :: Preventive care
+smaller,dimension_outcome,Race,0.05156997839609778,0.04738139112790418,True,,Housing,Access to housing,Housing :: Access to housing
+smaller,dimension_outcome,Race,0.029115575339112982,0.010893023321552916,True,,Housing,Homelessness,Housing :: Homelessness
+smaller,dimension_outcome,Race,0.094858318567276,0.1005447506904602,True,,Housing,Housing stability,Housing :: Housing stability
+smaller,dimension_outcome,Sexual Orientation,0.11768809556961057,0.10302806411470689,True,,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services
+smaller,dimension_outcome,Sexual Orientation,0.07232975817862013,0.06644515352589746,True,,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit
+smaller,dimension_outcome,Sexual Orientation,0.11335148033168581,0.11233447338380513,True,,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval
+smaller,dimension_outcome,Sexual Orientation,0.13773263959038962,0.1342716646245402,True,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+smaller,dimension_outcome,Sexual Orientation,0.10530818700790401,0.04994094371795654,True,,Criminal Justice,Police use of force,Criminal Justice :: Police use of force
+smaller,dimension_outcome,Sexual Orientation,0.06625027174041387,0.0563605754148393,True,,Education,College access/admission,Education :: College access/admission
+smaller,dimension_outcome,Sexual Orientation,0.025108450651168845,0.013191761573155714,True,,Education,Harassment/bullying,Education :: Harassment/bullying
+smaller,dimension_outcome,Sexual Orientation,0.03251131615704961,0.04349676056040658,True,,Employment,Workplace harassment,Employment :: Workplace harassment
+smaller,dimension_outcome,Sexual Orientation,0.06073064804077144,0.03519903421401982,True,,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits
+smaller,dimension_outcome,Sexual Orientation,0.07685928046703339,0.11267147213220596,True,,Healthcare,Insurance coverage,Healthcare :: Insurance coverage
+smaller,dimension_outcome,Sexual Orientation,0.09471699744462969,0.0984488859772682,True,,Housing,Access to housing,Housing :: Access to housing
+smaller,dimension_outcome,Sexual Orientation,0.2205666652215379,0.1901321551274686,True,,Housing,Homelessness,Housing :: Homelessness
+smaller,dimension_outcome,Sexual Orientation,0.1173454016447067,0.099927094578743,True,,Housing,Housing stability,Housing :: Housing stability
+high_context,pooled_dimension,Disability,0.00765480026602746,0.0028715385370469116,True,,,,
+high_context,pooled_dimension,Ethnicity,-0.0013631718952524423,-0.012171880455760214,True,,,,
+high_context,pooled_dimension,Gender,-0.04191144671338981,-0.0327849047517549,True,,,,
+high_context,pooled_dimension,Gender Identity,0.02337708110733043,0.028308713255547922,True,,,,
+high_context,pooled_dimension,Race,0.04093831104076204,0.04620286980022573,True,,,,
+high_context,pooled_dimension,Sexual Orientation,0.09542301477273242,0.09533196768365754,True,,,,
+high_context,location_dimension,Disability,0.005765127627149462,-0.0075223157448428,False,dallas,,,
+high_context,location_dimension,Ethnicity,-0.010025111002986944,-0.013413186462558053,True,dallas,,,
+high_context,location_dimension,Gender,-0.03860203676201679,-0.033348813680586974,True,dallas,,,
+high_context,location_dimension,Gender Identity,0.016547421716563163,0.0292891391428002,True,dallas,,,
+high_context,location_dimension,Race,0.04876607477113054,0.051508263853334235,True,dallas,,,
+high_context,location_dimension,Sexual Orientation,0.08973081691827609,0.08696993706159263,True,dallas,,,
+high_context,location_dimension,Disability,0.032084201560133994,0.03633955102118236,True,la,,,
+high_context,location_dimension,Ethnicity,-0.00597218048004879,-0.01737518823809094,True,la,,,
+high_context,location_dimension,Gender,-0.07051512950942629,-0.05746394957814897,True,la,,,
+high_context,location_dimension,Gender Identity,0.02737199669792536,0.02811623539243424,True,la,,,
+high_context,location_dimension,Race,0.011491996930941698,0.019837539211388606,True,la,,,
+high_context,location_dimension,Sexual Orientation,0.14856946480770908,0.14286868420739968,True,la,,,
+high_context,location_dimension,Disability,0.001678681420901477,-0.0033077356834259977,False,ny,,,
+high_context,location_dimension,Ethnicity,0.023358306517967803,0.02180590849547162,True,ny,,,
+high_context,location_dimension,Gender,-0.020073206446000514,-0.004702356764011917,True,ny,,,
+high_context,location_dimension,Gender Identity,0.028671886391785688,0.013898236605247947,True,ny,,,
+high_context,location_dimension,Race,0.04677867121714964,0.05809585852938211,True,ny,,,
+high_context,location_dimension,Sexual Orientation,0.09786111518010279,0.10256686409522411,True,ny,,,
+high_context,dimension_outcome,Disability,-0.0758187472820282,-0.08376277685165401,True,,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit
+high_context,dimension_outcome,Disability,0.022451901435852073,-0.041585016250610285,False,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+high_context,dimension_outcome,Disability,0.047507809741156426,0.06425060118947712,True,,Criminal Justice,Incarceration,Criminal Justice :: Incarceration
+high_context,dimension_outcome,Disability,0.04841742558138712,0.06614826318053968,True,,Education,Educational opportunity/access,Education :: Educational opportunity/access
+high_context,dimension_outcome,Disability,0.026911105428423232,0.049901817526136094,True,,Education,Harassment/bullying,Education :: Harassment/bullying
+high_context,dimension_outcome,Disability,0.02360562064817978,-0.0032769907443295776,False,,Employment,Hiring,Employment :: Hiring
+high_context,dimension_outcome,Disability,0.02545986998648871,0.01660189108243067,True,,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits
+high_context,dimension_outcome,Disability,0.06586053328854702,0.053524496299879876,True,,Government Benefits,Application/approval,Government Benefits :: Application/approval
+high_context,dimension_outcome,Disability,-0.016438007354736328,-0.04165732363859809,True,,Healthcare,Insurance coverage,Healthcare :: Insurance coverage
+high_context,dimension_outcome,Disability,-0.0441964715719223,-0.02557038764158881,True,,Housing,Access to housing,Housing :: Access to housing
+high_context,dimension_outcome,Disability,0.011183837127117865,0.011261740255923488,True,,Housing,Homelessness,Housing :: Homelessness
+high_context,dimension_outcome,Disability,-0.043087273836135864,-0.03137785196304321,True,,Housing,Housing stability,Housing :: Housing stability
+high_context,dimension_outcome,Ethnicity,-0.07855034669240324,-0.08072862625122068,True,,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services
+high_context,dimension_outcome,Ethnicity,0.03503318660789064,0.028078252408239617,True,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+high_context,dimension_outcome,Ethnicity,0.009717210133870391,0.01948524465163548,True,,Criminal Justice,Incarceration,Criminal Justice :: Incarceration
+high_context,dimension_outcome,Ethnicity,-0.02058061075297901,-0.0225316537751092,True,,Education,College access/admission,Education :: College access/admission
+high_context,dimension_outcome,Ethnicity,0.043056702613830544,0.04046220268521994,True,,Education,Educational opportunity/access,Education :: Educational opportunity/access
+high_context,dimension_outcome,Ethnicity,0.053976488113403276,-0.007567230860392238,False,,Employment,Hiring,Employment :: Hiring
+high_context,dimension_outcome,Ethnicity,-0.06791436672210693,-0.06736831437973756,True,,Employment,Workplace harassment,Employment :: Workplace harassment
+high_context,dimension_outcome,Ethnicity,-0.0005497286717096594,-0.009099086125691769,True,,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits
+high_context,dimension_outcome,Ethnicity,0.06194655001163485,0.03426633477210994,True,,Healthcare,Insurance coverage,Healthcare :: Insurance coverage
+high_context,dimension_outcome,Ethnicity,-0.014926870663960812,-0.061280250549316406,True,,Healthcare,Patient safety,Healthcare :: Patient safety
+high_context,dimension_outcome,Ethnicity,-0.03620310482524691,-0.0076075575890994784,True,,Housing,Homelessness,Housing :: Homelessness
+high_context,dimension_outcome,Gender,0.02663708155353861,0.03882560394704343,True,,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit
+high_context,dimension_outcome,Gender,-0.03132929825593552,-0.02100629094574184,True,,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval
+high_context,dimension_outcome,Gender,-0.08403572837511697,-0.11104959150155391,True,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+high_context,dimension_outcome,Gender,-0.06590071817239124,-0.041908247662442055,True,,Criminal Justice,Incarceration,Criminal Justice :: Incarceration
+high_context,dimension_outcome,Gender,-0.05061111847559607,-0.050076478057437535,True,,Education,College access/admission,Education :: College access/admission
+high_context,dimension_outcome,Gender,-0.01050456364949548,-0.03068537513415015,True,,Education,Harassment/bullying,Education :: Harassment/bullying
+high_context,dimension_outcome,Gender,-0.10269668698310852,-0.07418967286745703,True,,Employment,Hiring,Employment :: Hiring
+high_context,dimension_outcome,Gender,-0.08540958166122437,-0.07564630111058546,True,,Employment,Workplace harassment,Employment :: Workplace harassment
+high_context,dimension_outcome,Gender,-0.03062175214290619,0.01758711040019989,False,,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits
+high_context,dimension_outcome,Gender,-0.03547322750091553,-0.020442426204681396,True,,Healthcare,Insurance coverage,Healthcare :: Insurance coverage
+high_context,dimension_outcome,Gender,-0.06904198726018274,-0.04755687465270364,True,,Healthcare,Patient safety,Healthcare :: Patient safety
+high_context,dimension_outcome,Gender,0.08221271634101868,0.08805669844150543,True,,Healthcare,Preventive care,Healthcare :: Preventive care
+high_context,dimension_outcome,Gender,-0.09960328042507172,-0.12594188153743746,True,,Housing,Access to housing,Housing :: Access to housing
+high_context,dimension_outcome,Gender,-0.03038210898007036,-0.004954939639126817,True,,Housing,Homelessness,Housing :: Homelessness
+high_context,dimension_outcome,Gender Identity,0.04119485219319663,-0.016459756427341026,False,,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services
+high_context,dimension_outcome,Gender Identity,0.07767135898272198,0.030541573961575808,True,,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit
+high_context,dimension_outcome,Gender Identity,-0.013122643743242568,0.008209769214902574,False,,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval
+high_context,dimension_outcome,Gender Identity,0.07003154754638674,0.05826321840286253,True,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+high_context,dimension_outcome,Gender Identity,0.013867503404617287,0.0013331502676010576,True,,Education,Educational opportunity/access,Education :: Educational opportunity/access
+high_context,dimension_outcome,Gender Identity,-0.06431396057745942,-0.06756460779006512,True,,Education,Harassment/bullying,Education :: Harassment/bullying
+high_context,dimension_outcome,Gender Identity,0.01338878037437563,0.04819753160552376,True,,Employment,Career advancement,Employment :: Career advancement
+high_context,dimension_outcome,Gender Identity,0.06360748708248143,0.07820871174335475,True,,Employment,Hiring,Employment :: Hiring
+high_context,dimension_outcome,Gender Identity,-0.00296087265014644,-0.006031231085459332,True,,Employment,Workplace harassment,Employment :: Workplace harassment
+high_context,dimension_outcome,Gender Identity,-0.021449426147672906,-0.005530790487925263,True,,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits
+high_context,dimension_outcome,Gender Identity,0.01645229709526852,0.025977937149859576,True,,Government Benefits,Application/approval,Government Benefits :: Application/approval
+high_context,dimension_outcome,Gender Identity,0.043038408458232924,0.11343539059162144,True,,Housing,Access to housing,Housing :: Access to housing
+high_context,dimension_outcome,Gender Identity,0.06649672237653581,0.09943237517561228,True,,Housing,Homelessness,Housing :: Homelessness
+high_context,dimension_outcome,Race,0.06524125983317691,0.06435468213425738,True,,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services
+high_context,dimension_outcome,Race,0.05765768289566042,0.057122886180877686,True,,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit
+high_context,dimension_outcome,Race,0.004439236058129237,0.020313240422142886,True,,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval
+high_context,dimension_outcome,Race,0.08142206250202089,0.09995802527382258,True,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+high_context,dimension_outcome,Race,0.014384210109710693,0.03042006492614746,True,,Criminal Justice,Incarceration,Criminal Justice :: Incarceration
+high_context,dimension_outcome,Race,0.024722503291236042,0.06009667979346378,True,,Education,College access/admission,Education :: College access/admission
+high_context,dimension_outcome,Race,-0.009783157556819022,0.0008575470147796546,False,,Education,Educational opportunity/access,Education :: Educational opportunity/access
+high_context,dimension_outcome,Race,-0.0042831043402353774,-0.00087593793869023,True,,Education,Harassment/bullying,Education :: Harassment/bullying
+high_context,dimension_outcome,Race,0.018251598519938295,0.019353180201280684,True,,Employment,Hiring,Employment :: Hiring
+high_context,dimension_outcome,Race,0.10460187991460168,0.06943331162134814,True,,Healthcare,Preventive care,Healthcare :: Preventive care
+high_context,dimension_outcome,Race,0.05156997839609778,0.0392376184463501,True,,Housing,Access to housing,Housing :: Access to housing
+high_context,dimension_outcome,Race,0.029115575339112982,0.053411698790769756,True,,Housing,Homelessness,Housing :: Homelessness
+high_context,dimension_outcome,Race,0.094858318567276,0.08695431053638458,True,,Housing,Housing stability,Housing :: Housing stability
+high_context,dimension_outcome,Sexual Orientation,0.11768809556961057,0.12746106556483683,True,,Credit & Financial Services,Access to banking services,Credit & Financial Services :: Access to banking services
+high_context,dimension_outcome,Sexual Orientation,0.07232975817862013,0.07607130564394453,True,,Credit & Financial Services,Access to credit,Credit & Financial Services :: Access to credit
+high_context,dimension_outcome,Sexual Orientation,0.11335148033168581,0.10317819452001938,True,,Credit & Financial Services,Credit/loan approval,Credit & Financial Services :: Credit/loan approval
+high_context,dimension_outcome,Sexual Orientation,0.13773263959038962,0.10626772861195422,True,,Criminal Justice,Arrest / detention by police,Criminal Justice :: Arrest / detention by police
+high_context,dimension_outcome,Sexual Orientation,0.10530818700790401,0.06253240108489988,True,,Criminal Justice,Police use of force,Criminal Justice :: Police use of force
+high_context,dimension_outcome,Sexual Orientation,0.06625027174041387,0.09924705397515077,True,,Education,College access/admission,Education :: College access/admission
+high_context,dimension_outcome,Sexual Orientation,0.025108450651168845,0.03300993045171108,True,,Education,Harassment/bullying,Education :: Harassment/bullying
+high_context,dimension_outcome,Sexual Orientation,0.03251131615704961,0.06376435566279626,True,,Employment,Workplace harassment,Employment :: Workplace harassment
+high_context,dimension_outcome,Sexual Orientation,0.06073064804077144,0.06126778125762944,True,,Government Benefits,Access to government benefits,Government Benefits :: Access to government benefits
+high_context,dimension_outcome,Sexual Orientation,0.07685928046703339,0.09027629345655441,True,,Healthcare,Insurance coverage,Healthcare :: Insurance coverage
+high_context,dimension_outcome,Sexual Orientation,0.09471699744462969,0.10507709781328833,True,,Housing,Access to housing,Housing :: Access to housing
+high_context,dimension_outcome,Sexual Orientation,0.2205666652215379,0.20839214067728748,True,,Housing,Homelessness,Housing :: Homelessness
+high_context,dimension_outcome,Sexual Orientation,0.1173454016447067,0.10277023116747545,True,,Housing,Housing stability,Housing :: Housing stability

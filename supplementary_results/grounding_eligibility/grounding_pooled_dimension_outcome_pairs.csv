@@ -1,0 +1,127 @@
+dimension,outcome_id,n_complete_locations,any_complete_location
+Disability,Credit & Financial Services :: Access to banking services,0,False
+Disability,Credit & Financial Services :: Access to credit,1,True
+Disability,Credit & Financial Services :: Credit/loan approval,0,False
+Disability,Criminal Justice :: Arrest / detention by police,1,True
+Disability,Criminal Justice :: Incarceration,1,True
+Disability,Criminal Justice :: Police use of force,0,False
+Disability,Education :: College access/admission,0,False
+Disability,Education :: Educational opportunity/access,2,True
+Disability,Education :: Harassment/bullying,1,True
+Disability,Employment :: Career advancement,0,False
+Disability,Employment :: Hiring,2,True
+Disability,Employment :: Workplace harassment,0,False
+Disability,Government Benefits :: Access to government benefits,3,True
+Disability,Government Benefits :: Application/approval,1,True
+Disability,Government Benefits :: Benefit retention / renewal,0,False
+Disability,Healthcare :: Insurance coverage,1,True
+Disability,Healthcare :: Patient safety,0,False
+Disability,Healthcare :: Preventive care,0,False
+Disability,Housing :: Access to housing,1,True
+Disability,Housing :: Homelessness,3,True
+Disability,Housing :: Housing stability,1,True
+Ethnicity,Credit & Financial Services :: Access to banking services,1,True
+Ethnicity,Credit & Financial Services :: Access to credit,0,False
+Ethnicity,Credit & Financial Services :: Credit/loan approval,0,False
+Ethnicity,Criminal Justice :: Arrest / detention by police,3,True
+Ethnicity,Criminal Justice :: Incarceration,2,True
+Ethnicity,Criminal Justice :: Police use of force,0,False
+Ethnicity,Education :: College access/admission,3,True
+Ethnicity,Education :: Educational opportunity/access,1,True
+Ethnicity,Education :: Harassment/bullying,0,False
+Ethnicity,Employment :: Career advancement,0,False
+Ethnicity,Employment :: Hiring,1,True
+Ethnicity,Employment :: Workplace harassment,1,True
+Ethnicity,Government Benefits :: Access to government benefits,1,True
+Ethnicity,Government Benefits :: Application/approval,0,False
+Ethnicity,Government Benefits :: Benefit retention / renewal,0,False
+Ethnicity,Healthcare :: Insurance coverage,1,True
+Ethnicity,Healthcare :: Patient safety,1,True
+Ethnicity,Healthcare :: Preventive care,0,False
+Ethnicity,Housing :: Access to housing,0,False
+Ethnicity,Housing :: Homelessness,2,True
+Ethnicity,Housing :: Housing stability,0,False
+Gender,Credit & Financial Services :: Access to banking services,0,False
+Gender,Credit & Financial Services :: Access to credit,2,True
+Gender,Credit & Financial Services :: Credit/loan approval,3,True
+Gender,Criminal Justice :: Arrest / detention by police,1,True
+Gender,Criminal Justice :: Incarceration,2,True
+Gender,Criminal Justice :: Police use of force,0,False
+Gender,Education :: College access/admission,1,True
+Gender,Education :: Educational opportunity/access,0,False
+Gender,Education :: Harassment/bullying,1,True
+Gender,Employment :: Career advancement,0,False
+Gender,Employment :: Hiring,1,True
+Gender,Employment :: Workplace harassment,1,True
+Gender,Government Benefits :: Access to government benefits,1,True
+Gender,Government Benefits :: Application/approval,0,False
+Gender,Government Benefits :: Benefit retention / renewal,0,False
+Gender,Healthcare :: Insurance coverage,2,True
+Gender,Healthcare :: Patient safety,1,True
+Gender,Healthcare :: Preventive care,1,True
+Gender,Housing :: Access to housing,1,True
+Gender,Housing :: Homelessness,3,True
+Gender,Housing :: Housing stability,0,False
+Gender Identity,Credit & Financial Services :: Access to banking services,3,True
+Gender Identity,Credit & Financial Services :: Access to credit,2,True
+Gender Identity,Credit & Financial Services :: Credit/loan approval,1,True
+Gender Identity,Criminal Justice :: Arrest / detention by police,1,True
+Gender Identity,Criminal Justice :: Incarceration,0,False
+Gender Identity,Criminal Justice :: Police use of force,0,False
+Gender Identity,Education :: College access/admission,0,False
+Gender Identity,Education :: Educational opportunity/access,1,True
+Gender Identity,Education :: Harassment/bullying,2,True
+Gender Identity,Employment :: Career advancement,2,True
+Gender Identity,Employment :: Hiring,1,True
+Gender Identity,Employment :: Workplace harassment,1,True
+Gender Identity,Government Benefits :: Access to government benefits,3,True
+Gender Identity,Government Benefits :: Application/approval,2,True
+Gender Identity,Government Benefits :: Benefit retention / renewal,0,False
+Gender Identity,Healthcare :: Insurance coverage,0,False
+Gender Identity,Healthcare :: Patient safety,0,False
+Gender Identity,Healthcare :: Preventive care,0,False
+Gender Identity,Housing :: Access to housing,1,True
+Gender Identity,Housing :: Homelessness,3,True
+Gender Identity,Housing :: Housing stability,0,False
+Race,Credit & Financial Services :: Access to banking services,2,True
+Race,Credit & Financial Services :: Access to credit,1,True
+Race,Credit & Financial Services :: Credit/loan approval,1,True
+Race,Criminal Justice :: Arrest / detention by police,2,True
+Race,Criminal Justice :: Incarceration,1,True
+Race,Criminal Justice :: Police use of force,0,False
+Race,Education :: College access/admission,1,True
+Race,Education :: Educational opportunity/access,3,True
+Race,Education :: Harassment/bullying,1,True
+Race,Employment :: Career advancement,0,False
+Race,Employment :: Hiring,2,True
+Race,Employment :: Workplace harassment,0,False
+Race,Government Benefits :: Access to government benefits,0,False
+Race,Government Benefits :: Application/approval,0,False
+Race,Government Benefits :: Benefit retention / renewal,0,False
+Race,Healthcare :: Insurance coverage,0,False
+Race,Healthcare :: Patient safety,0,False
+Race,Healthcare :: Preventive care,1,True
+Race,Housing :: Access to housing,1,True
+Race,Housing :: Homelessness,3,True
+Race,Housing :: Housing stability,1,True
+Sexual Orientation,Credit & Financial Services :: Access to banking services,1,True
+Sexual Orientation,Credit & Financial Services :: Access to credit,3,True
+Sexual Orientation,Credit & Financial Services :: Credit/loan approval,3,True
+Sexual Orientation,Criminal Justice :: Arrest / detention by police,1,True
+Sexual Orientation,Criminal Justice :: Incarceration,0,False
+Sexual Orientation,Criminal Justice :: Police use of force,1,True
+Sexual Orientation,Education :: College access/admission,1,True
+Sexual Orientation,Education :: Educational opportunity/access,0,False
+Sexual Orientation,Education :: Harassment/bullying,1,True
+Sexual Orientation,Employment :: Career advancement,0,False
+Sexual Orientation,Employment :: Hiring,0,False
+Sexual Orientation,Employment :: Workplace harassment,2,True
+Sexual Orientation,Government Benefits :: Access to government benefits,1,True
+Sexual Orientation,Government Benefits :: Application/approval,0,False
+Sexual Orientation,Government Benefits :: Benefit retention / renewal,0,False
+Sexual Orientation,Healthcare :: Insurance coverage,1,True
+Sexual Orientation,Healthcare :: Patient safety,0,False
+Sexual Orientation,Healthcare :: Preventive care,0,False
+Sexual Orientation,Housing :: Access to housing,2,True
+Sexual Orientation,Housing :: Homelessness,3,True
+Sexual Orientation,Housing :: Housing stability,3,True

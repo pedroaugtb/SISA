@@ -1,0 +1,81 @@
+{
+  "analysis": "Raw versus experimental-label-normalized answer displacement",
+  "representations": {
+    "normalized": "dense_distance_subject_normalized",
+    "raw": "dense_distance_raw"
+  },
+  "n_bootstrap": 5000,
+  "n_permutations": 20000,
+  "effect_stability": [
+    {
+      "unit": "pooled_dimension",
+      "n_units": 6,
+      "same_direction_n": 5,
+      "same_direction_rate": 0.8333333333333334,
+      "spearman_rho": 0.8857142857142858,
+      "spearman_p_descriptive": 0.01884548104956266,
+      "mean_absolute_effect_change": 0.012130665321829456,
+      "median_absolute_effect_change": 0.01144816454440829
+    },
+    {
+      "unit": "location_dimension",
+      "n_units": 18,
+      "same_direction_n": 18,
+      "same_direction_rate": 1.0,
+      "spearman_rho": 0.890608875128999,
+      "spearman_p_descriptive": 7.277473705445721e-07,
+      "mean_absolute_effect_change": 0.012154801733910097,
+      "median_absolute_effect_change": 0.01003020221278781
+    },
+    {
+      "unit": "dimension_outcome",
+      "n_units": 126,
+      "same_direction_n": 118,
+      "same_direction_rate": 0.9365079365079365,
+      "spearman_rho": 0.9155229329188144,
+      "spearman_p_descriptive": 7.106320958824875e-51,
+      "mean_absolute_effect_change": 0.022593368534688595,
+      "median_absolute_effect_change": 0.013832688331604014
+    }
+  ],
+  "blocked_correlations": [
+    {
+      "representation": "normalized",
+      "metric_x": "url_jaccard_distance",
+      "metric_y": "dense_distance_subject_normalized",
+      "n_observations": 252,
+      "n_outcomes": 21,
+      "blocked_rank_correlation": 0.4010567820206754,
+      "cluster_bootstrap_ci_low": 0.28202249267446655,
+      "cluster_bootstrap_ci_high": 0.5066416635720579,
+      "p_blocked_permutation": 4.999750012499375e-05
+    },
+    {
+      "representation": "raw",
+      "metric_x": "url_jaccard_distance",
+      "metric_y": "dense_distance_raw",
+      "n_observations": 252,
+      "n_outcomes": 21,
+      "blocked_rank_correlation": 0.36051221937762645,
+      "cluster_bootstrap_ci_low": 0.222018236154658,
+      "cluster_bootstrap_ci_high": 0.4786845188218624,
+      "p_blocked_permutation": 4.999750012499375e-05
+    }
+  ],
+  "blocked_correlation_difference": {
+    "n_common_outcomes": 21,
+    "normalized_r": 0.4010567820206754,
+    "raw_r": 0.36051221937762645,
+    "difference_raw_minus_normalized": -0.040544562643048954,
+    "difference_ci_low": -0.09890381178967604,
+    "difference_ci_high": 0.017564802945546396
+  },
+  "official_normalized_validation": {
+    "official_file": "./figures_three_locations_pooled/pooled_pipeline_correlations.csv",
+    "exact_match": true,
+    "blocked_rank_correlation": 0.4010567820206754,
+    "cluster_bootstrap_ci_low": 0.2820224926744665,
+    "cluster_bootstrap_ci_high": 0.5066416635720579,
+    "p_blocked_permutation": 4.999750012499375e-05
+  }
+}

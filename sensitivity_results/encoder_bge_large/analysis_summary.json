@@ -1,0 +1,146 @@
+{
+  "alternative_model": "BAAI/bge-large-en-v1.5@d4aa6901d3a41ba39fb536a557fa166f842b0e09",
+  "primary_answer_encoder": "sentence-transformers/all-mpnet-base-v2",
+  "primary_evidence_encoder": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "multilingual_responses_excluded": false,
+  "n_bootstrap": 5000,
+  "n_permutations": 20000,
+  "effect_size_agreement": [
+    {
+      "metric": "answer_displacement",
+      "unit": "pooled_dimension",
+      "n_units": 6,
+      "same_direction_n": 6,
+      "same_direction_rate": 1.0,
+      "same_nonzero_direction_n": 6,
+      "spearman_rho": 0.8285714285714287,
+      "spearman_p_descriptive": 0.04156268221574334,
+      "mean_absolute_effect_change": 0.03621046134719142,
+      "median_absolute_effect_change": 0.029108864210900816
+    },
+    {
+      "metric": "answer_displacement",
+      "unit": "location_dimension",
+      "n_units": 18,
+      "same_direction_n": 17,
+      "same_direction_rate": 0.9444444444444444,
+      "same_nonzero_direction_n": 17,
+      "spearman_rho": 0.7874097007223942,
+      "spearman_p_descriptive": 0.0001050103927107811,
+      "mean_absolute_effect_change": 0.03921777900879976,
+      "median_absolute_effect_change": 0.032726017492158074
+    },
+    {
+      "metric": "answer_displacement",
+      "unit": "dimension_outcome",
+      "n_units": 126,
+      "same_direction_n": 107,
+      "same_direction_rate": 0.8492063492063492,
+      "same_nonzero_direction_n": 107,
+      "spearman_rho": 0.7681829771278591,
+      "spearman_p_descriptive": 8.958249311422382e-26,
+      "mean_absolute_effect_change": 0.05234974961747569,
+      "median_absolute_effect_change": 0.040652990341186496
+    },
+    {
+      "metric": "evidence_alignment",
+      "unit": "pooled_dimension",
+      "n_units": 6,
+      "same_direction_n": 5,
+      "same_direction_rate": 0.8333333333333334,
+      "same_nonzero_direction_n": 5,
+      "spearman_rho": 0.942857142857143,
+      "spearman_p_descriptive": 0.004804664723032055,
+      "mean_absolute_effect_change": 0.016773982347889745,
+      "median_absolute_effect_change": 0.014719067460301924
+    },
+    {
+      "metric": "evidence_alignment",
+      "unit": "location_dimension",
+      "n_units": 18,
+      "same_direction_n": 15,
+      "same_direction_rate": 0.8333333333333334,
+      "same_nonzero_direction_n": 15,
+      "spearman_rho": 0.8183694530443757,
+      "spearman_p_descriptive": 3.3103070471624634e-05,
+      "mean_absolute_effect_change": 0.018596903446325825,
+      "median_absolute_effect_change": 0.012152739697708298
+    },
+    {
+      "metric": "evidence_alignment",
+      "unit": "dimension_outcome",
+      "n_units": 76,
+      "same_direction_n": 62,
+      "same_direction_rate": 0.8157894736842105,
+      "same_nonzero_direction_n": 62,
+      "spearman_rho": 0.7542583732057416,
+      "spearman_p_descriptive": 3.658317684954542e-15,
+      "mean_absolute_effect_change": 0.03252072146499683,
+      "median_absolute_effect_change": 0.027541192041503043
+    }
+  ],
+  "blocked_correlations": [
+    {
+      "relationship": "source_to_answer",
+      "n_observations": 252,
+      "n_outcomes": 21,
+      "blocked_rank_correlation": 0.4010567820206754,
+      "ci_low": 0.28055461381661073,
+      "ci_high": 0.5052462552526842,
+      "p_blocked_permutation": 4.999750012499375e-05,
+      "encoder": "primary"
+    },
+    {
+      "relationship": "source_to_answer",
+      "n_observations": 252,
+      "n_outcomes": 21,
+      "blocked_rank_correlation": 0.447871122392031,
+      "ci_low": 0.3231756727289984,
+      "ci_high": 0.5605139538785305,
+      "p_blocked_permutation": 4.999750012499375e-05,
+      "encoder": "alternative"
+    },
+    {
+      "relationship": "answer_to_alignment",
+      "n_observations": 212,
+      "n_outcomes": 21,
+      "blocked_rank_correlation": 0.38880328710837186,
+      "ci_low": 0.29735354301433514,
+      "ci_high": 0.4857190451782968,
+      "p_blocked_permutation": 4.999750012499375e-05,
+      "encoder": "primary"
+    },
+    {
+      "relationship": "answer_to_alignment",
+      "n_observations": 212,
+      "n_outcomes": 21,
+      "blocked_rank_correlation": 0.3795582948125321,
+      "ci_low": 0.24841651079410848,
+      "ci_high": 0.5073350171633093,
+      "p_blocked_permutation": 4.999750012499375e-05,
+      "encoder": "alternative"
+    }
+  ],
+  "blocked_correlation_differences": [
+    {
+      "relationship": "source_to_answer",
+      "n_common_observations": 252,
+      "n_common_outcomes": 21,
+      "primary_r": 0.4010567820206754,
+      "alternative_r": 0.447871122392031,
+      "difference_alternative_minus_primary": 0.04681434037135557,
+      "difference_ci_low": -0.00465453767541339,
+      "difference_ci_high": 0.09940085113990117
+    },
+    {
+      "relationship": "answer_to_alignment",
+      "n_common_observations": 212,
+      "n_common_outcomes": 21,
+      "primary_r": 0.38880328710837186,
+      "alternative_r": 0.3795582948125321,
+      "difference_alternative_minus_primary": -0.009244992295839749,
+      "difference_ci_low": -0.14325110969639862,
+      "difference_ci_high": 0.1284609526430909
+    }
+  ]
+}
