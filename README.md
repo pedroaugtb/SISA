@@ -4,7 +4,7 @@ This repository is the minimal reproducibility package for the paper. It contain
 
 The package intentionally excludes abandoned analyses, legacy Dallas-only outputs, duplicate script trees, logs, model caches, intermediate embeddings, raw downloaded webpages, and the anonymous review PDF.
 
-For double-anonymous review, follow `ANONYMITY.md` and share only the configured anonymous proxy URL. Keep the source repository private until the review policy permits disclosure.
+
 
 ## Quick start
 
@@ -95,7 +95,6 @@ The pinned model revisions are:
 ## Repository map
 
 ```text
-annotations/                 collected AIO responses and safe source provenance
 artifacts/                   outcome ratings, agreement results, selected outcomes
 code/analysis/               primary computational pipeline
 code/query_design/           primary and robustness query generation
